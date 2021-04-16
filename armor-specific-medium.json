@@ -1,0 +1,35 @@
+{
+  "name": "Table 15-6: Medium Specific Armor",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 25,
+      "name": "mithral shirt"
+    },
+    {
+      "weight": 20,
+      "name": "dragonhide plate"
+    },
+    {
+      "weight": 12,
+      "name": "elven chain"
+    },
+    {
+      "weight": 10,
+      "name": "rhino hide"
+    },
+    {
+      "weight": 15,
+      "name": "adamantine breastplate"
+    },
+    {
+      "weight": 15,
+      "name": "dwarven plate"
+    },
+    {
+      "weight": 3,
+      "name": "banded mail of luck"
+    }
+  ]
+}

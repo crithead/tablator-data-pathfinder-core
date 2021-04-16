@@ -1,0 +1,91 @@
+{
+  "name": "Table 15-16: Major Staves",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 3,
+      "name": "staff of charming"
+    },
+    {
+      "weight": 6,
+      "name": "staff of fire"
+    },
+    {
+      "weight": 2,
+      "name": "staff of swarming insects"
+    },
+    {
+      "weight": 2,
+      "name": "staff of size alteration"
+    },
+    {
+      "weight": 6,
+      "name": "staff of healing"
+    },
+    {
+      "weight": 5,
+      "name": "staff of frost"
+    },
+    {
+      "weight": 7,
+      "name": "staff of illumination"
+    },
+    {
+      "weight": 7,
+      "name": "staff of defense"
+    },
+    {
+      "weight": 7,
+      "name": "staff of abjuration"
+    },
+    {
+      "weight": 5,
+      "name": "staff of conjuration"
+    },
+    {
+      "weight": 5,
+      "name": "staff of divination"
+    },
+    {
+      "weight": 5,
+      "name": "staff of enchantment"
+    },
+    {
+      "weight": 5,
+      "name": "staff of evocation"
+    },
+    {
+      "weight": 5,
+      "name": "staff of illusion"
+    },
+    {
+      "weight": 5,
+      "name": "staff of necromancy"
+    },
+    {
+      "weight": 5,
+      "name": "staff of transmutation"
+    },
+    {
+      "weight": 5,
+      "name": "staff of earth and stone"
+    },
+    {
+      "weight": 5,
+      "name": "staff of the woodlands"
+    },
+    {
+      "weight": 5,
+      "name": "staff of life"
+    },
+    {
+      "weight": 3,
+      "name": "staff of passage"
+    },
+    {
+      "weight": 2,
+      "name": "staff of power"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Level 0 Spells",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "table": "spells-bard-0"
+    },
+    {
+      "weight": 30,
+      "table": "spells-cleric-0"
+    },
+    {
+      "weight": 10,
+      "table": "spells-druid-0"
+    },
+    {
+      "weight": 50,
+      "table": "spells-wizard-0"
+    }
+  ]
+}

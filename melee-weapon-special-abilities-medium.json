@@ -1,0 +1,104 @@
+{
+  "name": "Table 15-9: Medium Melee Weapon Special Abilities",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 6,
+      "name": "Bane",
+      "subtable": "designated-type"
+    },
+    {
+      "weight": 6,
+      "name": "Defending"
+    },
+    {
+      "weight": 7,
+      "name": "Flaming"
+    },
+    {
+      "weight": 7,
+      "name": "Frost"
+    },
+    {
+      "weight": 7,
+      "name": "Shock"
+    },
+    {
+      "weight": 5,
+      "name": "Ghost touch"
+    },
+    {
+      "weight": 6,
+      "name": "Keen"
+    },
+    {
+      "weight": 4,
+      "name": "Ki-focus"
+    },
+    {
+      "weight": 2,
+      "name": "Merciful"
+    },
+    {
+      "weight": 4,
+      "name": "Mighty cleaving"
+    },
+    {
+      "weight": 5,
+      "name": "Spell storing"
+    },
+    {
+      "weight": 4,
+      "name": "Throwing"
+    },
+    {
+      "weight": 2,
+      "name": "Thundering"
+    },
+    {
+      "weight": 4,
+      "name": "Vicious"
+    },
+    {
+      "weight": 3,
+      "name": "Anarchic"
+    },
+    {
+      "weight": 3,
+      "name": "Axiomatic"
+    },
+    {
+      "weight": 3,
+      "name": "Disruption"
+    },
+    {
+      "weight": 3,
+      "name": "Flaming burst"
+    },
+    {
+      "weight": 3,
+      "name": "Icy burst"
+    },
+    {
+      "weight": 3,
+      "name": "Holy"
+    },
+    {
+      "weight": 3,
+      "name": "Shocking burst"
+    },
+    {
+      "weight": 3,
+      "name": "Unholy"
+    },
+    {
+      "weight": 2,
+      "name": "Wounding"
+    },
+    {
+      "weight": 5,
+      "name": "Roll again twice"
+    }
+  ]
+}

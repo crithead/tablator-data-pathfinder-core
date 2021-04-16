@@ -1,0 +1,22 @@
+{
+  "name": "Table 15-12: Minor Potions",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 20,
+      "name": "spell level: 0th, caster level: 1st",
+      "subtable": "spells-0"
+    },
+    {
+      "weight": 40,
+      "name": "spell level: 1st, caster level: 1st",
+      "subtable": "spells-1"
+    },
+    {
+      "weight": 40,
+      "name": "spell level: 2nd, caster level: 3rd",
+      "subtable": "spells-2"
+    }
+  ]
+}

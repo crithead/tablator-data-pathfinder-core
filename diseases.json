@@ -1,0 +1,51 @@
+{
+  "name": "Diseases",
+  "type": "items",
+  "total-weight": 11,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Blinding sickness"
+    },
+    {
+      "weight": 1,
+      "name": "Bobonic plague"
+    },
+    {
+      "weight": 1,
+      "name": "Cackle fever"
+    },
+    {
+      "weight": 1,
+      "name": "Demon fever"
+    },
+    {
+      "weight": 1,
+      "name": "Devil Chills"
+    },
+    {
+      "weight": 1,
+      "name": "Filth fever"
+    },
+    {
+      "weight": 1,
+      "name": "Leprosy"
+    },
+    {
+      "weight": 1,
+      "name": "Mindfire"
+    },
+    {
+      "weight": 1,
+      "name": "Red Ache"
+    },
+    {
+      "weight": 1,
+      "name": "Shakes"
+    },
+    {
+      "weight": 1,
+      "name": "Slimy doom"
+    }
+  ]
+}

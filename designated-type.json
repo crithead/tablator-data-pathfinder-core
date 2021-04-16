@@ -1,0 +1,128 @@
+{
+  "name": "Designated Type",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "Aberrations"
+    },
+    {
+      "weight": 4,
+      "name": "Animals"
+    },
+    {
+      "weight": 7,
+      "name": "Constructs"
+    },
+    {
+      "weight": 11,
+      "name": "Dragons"
+    },
+    {
+      "weight": 5,
+      "name": "Fey"
+    },
+    {
+      "weight": 1,
+      "name": "Humanoids, aquatic"
+    },
+    {
+      "weight": 2,
+      "name": "Humanoids, dwarf"
+    },
+    {
+      "weight": 2,
+      "name": "Humanoids, elf"
+    },
+    {
+      "weight": 7,
+      "name": "Humanoids, giant"
+    },
+    {
+      "weight": 1,
+      "name": "Humanoids, gnoll"
+    },
+    {
+      "weight": 1,
+      "name": "Humanoids, gnome"
+    },
+    {
+      "weight": 3,
+      "name": "Humanoids, goblinoid"
+    },
+    {
+      "weight": 1,
+      "name": "Humanoids, halfling"
+    },
+    {
+      "weight": 4,
+      "name": "Humanoids, human"
+    },
+    {
+      "weight": 3,
+      "name": "Humanoids, reptilian"
+    },
+    {
+      "weight": 3,
+      "name": "Humanoids, orc"
+    },
+    {
+      "weight": 5,
+      "name": "Magical beasts"
+    },
+    {
+      "weight": 5,
+      "name": "Monstrous humanoids"
+    },
+    {
+      "weight": 2,
+      "name": "Oozes"
+    },
+    {
+      "weight": 1,
+      "name": "Outsiders, air"
+    },
+    {
+      "weight": 3,
+      "name": "Outsiders, chaotic"
+    },
+    {
+      "weight": 1,
+      "name": "Outsiders, earth"
+    },
+    {
+      "weight": 3,
+      "name": "Outsiders, evil"
+    },
+    {
+      "weight": 1,
+      "name": "Outsiders, fire"
+    },
+    {
+      "weight": 3,
+      "name": "Outsiders, good"
+    },
+    {
+      "weight": 3,
+      "name": "Outsiders, lawful"
+    },
+    {
+      "weight": 1,
+      "name": "Outsiders, water"
+    },
+
+    {
+      "weight": 2,
+      "name": "Plants"
+    },
+    {
+      "weight": 8,
+      "name": "Undead"
+    },
+    {
+      "weight": 2,
+      "name": "Vermin"
+    }
+  ]
+}

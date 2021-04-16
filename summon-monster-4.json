@@ -1,0 +1,73 @@
+{
+  "name": "Table 10-1: Summon Monster IV",
+  "type": "items",
+  "total-weight": 16,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Ant, Giant (drone)"
+    },
+    {
+      "weight": 1,
+      "name": "Bison (herd animal)"
+    },
+    {
+      "weight": 1,
+      "name": "Deinonychus (dinosaur)"
+    },
+    {
+      "weight": 1,
+      "name": "Dire ape"
+    },
+    {
+      "weight": 1,
+      "name": "Dire boar"
+    },
+    {
+      "weight": 1,
+      "name": "Dire wolf"
+    },
+    {
+      "weight": 1,
+      "name": "Elemental, medium",
+      "subtable": "elemental-type"
+    },
+    {
+      "weight": 1,
+      "name": "Giant scorpion"
+    },
+    {
+      "weight": 1,
+      "name": "Giant wasp"
+    },
+    {
+      "weight": 1,
+      "name": "Grizzly bear"
+    },
+    {
+      "weight": 1,
+      "name": "Hell hound"
+    },
+    {
+      "weight": 1,
+      "name": "Hound archon"
+    },
+    {
+      "weight": 1,
+      "name": "Lion"
+    },
+    {
+      "weight": 1,
+      "name": "Mephit",
+      "subtable": "mephit-type"
+    },
+    {
+      "weight": 1,
+      "name": "Pteranodon (dinosaur)"
+    },
+    {
+      "weight": 1,
+      "name": "Rhinoceros"
+    }
+  ]
+}

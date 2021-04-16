@@ -1,0 +1,27 @@
+{
+  "name": "Table 13-9: Random Weather",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 70,
+      "name": "normal weather"
+    },
+    {
+      "weight": 10,
+      "name": "abnormal weather"
+    },
+    {
+      "weight": 10,
+      "name": "inclement weather"
+    },
+    {
+      "weight": 9,
+      "name": "storm"
+    },
+    {
+      "weight": 1,
+      "name": "powerful storm"
+    }
+  ]
+}

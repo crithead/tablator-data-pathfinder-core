@@ -1,0 +1,127 @@
+{
+  "name": "Bard Spells, Level 3",
+  "type": "items",
+  "total-weight": 30,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Blink"
+    },
+    {
+      "weight": 1,
+      "name": "Charm Monster"
+    },
+    {
+      "weight": 1,
+      "name": "Clairaudince/Clairvoyance"
+    },
+    {
+      "weight": 1,
+      "name": "Confusion"
+    },
+    {
+      "weight": 1,
+      "name": "Crushing Despair"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Serious Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Daylight"
+    },
+    {
+      "weight": 1,
+      "name": "Deep Slumber"
+    },
+    {
+      "weight": 1,
+      "name": "Dispel Magic"
+    },
+    {
+      "weight": 1,
+      "name": "Displacement"
+    },
+    {
+      "weight": 1,
+      "name": "Fear"
+    },
+    {
+      "weight": 1,
+      "name": "Gaseous Form"
+    },
+    {
+      "weight": 1,
+      "name": "Geas, Lesser"
+    },
+    {
+      "weight": 1,
+      "name": "Glibness"
+    },
+    {
+      "weight": 1,
+      "name": "Good Hope"
+    },
+    {
+      "weight": 1,
+      "name": "Haste"
+    },
+    {
+      "weight": 1,
+      "name": "Illusory Script"
+    },
+    {
+      "weight": 1,
+      "name": "Invisibility Sphere"
+    },
+    {
+      "weight": 1,
+      "name": "Major Image"
+    },
+    {
+      "weight": 1,
+      "name": "Phantom Steed"
+    },
+    {
+      "weight": 1,
+      "name": "Remove Curse"
+    },
+    {
+      "weight": 1,
+      "name": "Scrying"
+    },
+    {
+      "weight": 1,
+      "name": "Sculpt Sound"
+    },
+    {
+      "weight": 1,
+      "name": "Secret Page"
+    },
+    {
+      "weight": 1,
+      "name": "See Invisibility"
+    },
+    {
+      "weight": 1,
+      "name": "Sepia Snake Sigil"
+    },
+    {
+      "weight": 1,
+      "name": "Slow"
+    },
+    {
+      "weight": 1,
+      "name": "Speak with Animals"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster III"
+    },
+    {
+      "weight": 1,
+      "name": "Tiny Hut"
+    }
+  ]
+}

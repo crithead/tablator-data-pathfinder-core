@@ -1,0 +1,31 @@
+{
+  "name": "Level 1 Spells",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "table": "spells-bard-1"
+    },
+    {
+      "weight": 25,
+      "table": "spells-cleric-1"
+    },
+    {
+      "weight": 10,
+      "table": "spells-druid-1"
+    },
+    {
+      "weight": 10,
+      "table": "spells-paladin-1"
+    },
+    {
+      "weight": 10,
+      "table": "spells-ranger-1"
+    },
+    {
+      "weight": 35,
+      "table": "spells-wizard-1"
+    }
+  ]
+}

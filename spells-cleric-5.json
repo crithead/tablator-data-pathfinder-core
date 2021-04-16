@@ -1,0 +1,119 @@
+{
+  "name": "Cleric Spells, Level 5",
+  "type": "items",
+  "total-weight": 28,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Atonement"
+    },
+    {
+      "weight": 1,
+      "name": "Break Enchantment"
+    },
+    {
+      "weight": 1,
+      "name": "Breath of Life"
+    },
+    {
+      "weight": 1,
+      "name": "Command, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Commune"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Light Wounds, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Dispel Chaos"
+    },
+    {
+      "weight": 1,
+      "name": "Dispel Evil"
+    },
+    {
+      "weight": 1,
+      "name": "Dispel Good"
+    },
+    {
+      "weight": 1,
+      "name": "Dispel Law"
+    },
+    {
+      "weight": 1,
+      "name": "Disrupting Weapon"
+    },
+    {
+      "weight": 1,
+      "name": "Flame Strike"
+    },
+    {
+      "weight": 1,
+      "name": "Hallow"
+    },
+    {
+      "weight": 1,
+      "name": "Inflict Light Wounds, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Insect Plague"
+    },
+    {
+      "weight": 1,
+      "name": "Mark of Justice"
+    },
+    {
+      "weight": 1,
+      "name": "Plane Shift"
+    },
+    {
+      "weight": 1,
+      "name": "Raise Dead"
+    },
+    {
+      "weight": 1,
+      "name": "Righteous Might"
+    },
+    {
+      "weight": 1,
+      "name": "Scrying"
+    },
+    {
+      "weight": 1,
+      "name": "Slay Living"
+    },
+    {
+      "weight": 1,
+      "name": "Spell Resistance"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster V"
+    },
+    {
+      "weight": 1,
+      "name": "Symbol of Pain"
+    },
+    {
+      "weight": 1,
+      "name": "Symbol of Sleep"
+    },
+    {
+      "weight": 1,
+      "name": "True Seeing"
+    },
+    {
+      "weight": 1,
+      "name": "Unhallow"
+    },
+    {
+      "weight": 1,
+      "name": "Wall of Stone"
+    }
+  ]
+}

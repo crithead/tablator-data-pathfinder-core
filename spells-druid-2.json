@@ -1,0 +1,33 @@
+{
+  "name": "Druid Spells, Level 2",
+  "type": "items",
+  "total-weight": 26,
+  "rows": [
+    { "name": "Animal Messenger" },
+    { "name": "Animal Trance" },
+    { "name": "Barkskin" },
+    { "name": "Bear's Endurance" },
+    { "name": "Bull's Strength" },
+    { "name": "Cat's Grace" },
+    { "name": "Chill Metal" },
+    { "name": "Delay Poison" },
+    { "name": "Fire Trap" },
+    { "name": "Flame Blade" },
+    { "name": "Flaming Sphere" },
+    { "name": "Fog Cloud" },
+    { "name": "Gust of Wind" },
+    { "name": "Heat Metal" },
+    { "name": "Hold Animal" },
+    { "name": "Owl's Wisdom" },
+    { "name": "Reduce Animal" },
+    { "name": "Resist Energy" },
+    { "name": "Restoration, Lesser" },
+    { "name": "Soften Earth and Stone" },
+    { "name": "Spider Climb" },
+    { "name": "Summon Nature's Ally II" },
+    { "name": "Summon Swarm" },
+    { "name": "Tree Shape" },
+    { "name": "Warp Wood" },
+    { "name": "Wood Shape" }
+  ]
+}

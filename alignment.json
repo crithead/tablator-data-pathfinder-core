@@ -1,0 +1,16 @@
+{
+  "name": "Alignments",
+  "type": "items",
+  "total-weight": 9,
+  "rows": [
+    { "name": "lawful good" },
+    { "name": "neutral good" },
+    { "name": "chaotic good" },
+    { "name": "lawful neutral" },
+    { "name": "true neutral" },
+    { "name": "chaotic neutral" },
+    { "name": "lawful evil" },
+    { "name": "neutral evil" },
+    { "name": "chaotic evil" }
+  ]
+}

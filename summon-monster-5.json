@@ -1,0 +1,56 @@
+{
+  "name": "Table 10-1: Summon Monster V",
+  "type": "items",
+  "total-weight": 12,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Ankylosaurus (dinosaur)"
+    },
+    {
+      "weight": 1,
+      "name": "Babau (demon)"
+    },
+    {
+      "weight": 1,
+      "name": "Bearded devil"
+    },
+    {
+      "weight": 1,
+      "name": "Bralani azata"
+    },
+    {
+      "weight": 1,
+      "name": "Dire lion"
+    },
+    {
+      "weight": 1,
+      "name": "Elemental, large",
+      "subtable": "elemental-type"
+    },
+    {
+      "weight": 1,
+      "name": "Giant moray eel"
+    },
+    {
+      "weight": 1,
+      "name": "Kyton"
+    },
+    {
+      "weight": 1,
+      "name": "Orca (dolphin)"
+    },
+    {
+      "weight": 1,
+      "name": "Salamander"
+    },
+    {
+      "weight": 1,
+      "name": "Woolly rhinoceros "
+    },
+    {
+      "weight": 1,
+      "name": "Xill"
+    }
+  ]
+}

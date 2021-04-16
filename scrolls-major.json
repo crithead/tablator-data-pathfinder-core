@@ -1,0 +1,37 @@
+{
+  "name": "Table 15-15: Major Scrolls",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "spell level: 4th, caster level: 7th",
+      "subtable": "spells-4"
+    },
+    {
+      "weight": 45,
+      "name": "spell level: 5th, caster level: 9th",
+      "subtable": "spells-5"
+    },
+    {
+      "weight": 20,
+      "name": "spell level: 6th, caster level: 11th",
+      "subtable": "spells-6"
+    },
+    {
+      "weight": 15,
+      "name": "spell level: 7th, caster level: 13th",
+      "subtable": "spells-7"
+    },
+    {
+      "weight": 10,
+      "name": "spell level: 8th, caster level: 15th",
+      "subtable": "spells-8"
+    },
+    {
+      "weight": 5,
+      "name": "spell level: 9th, caster level: 17th",
+      "subtable": "spells-9"
+    }
+  ]
+}

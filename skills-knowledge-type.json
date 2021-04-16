@@ -1,0 +1,17 @@
+{
+  "name": "Knowledge Skill",
+  "type": "items",
+  "total-weight": 10,
+  "rows": [
+    { "name": "arcana" },
+    { "name": "dungeoneering" },
+    { "name": "engineering" },
+    { "name": "geography" },
+    { "name": "history" },
+    { "name": "local" },
+    { "name": "nature" },
+    { "name": "nobility" },
+    { "name": "planes" },
+    { "name": "religion" }
+  ]
+}

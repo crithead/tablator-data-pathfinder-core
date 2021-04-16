@@ -1,0 +1,22 @@
+{
+  "name": "Table 15-7: Minor Wands",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "spell level: 0th, caster level: 1st",
+      "subtable": "spells-0"
+    },
+    {
+      "weight": 55,
+      "name": "spell level: 1st, caster level: 1st",
+      "subtable": "spells-1"
+    },
+    {
+      "weight": 40,
+      "name": "spell level: 2nd, caster level: 3rd",
+      "subtable": "spells-2"
+    }
+  ]
+}

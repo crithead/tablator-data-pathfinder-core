@@ -1,0 +1,43 @@
+{
+  "name": "Paladin Spells, Level 4",
+  "type": "items",
+  "total-weight": 9,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Break Enchantment"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Serious Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Death Ward"
+    },
+    {
+      "weight": 1,
+      "name": "Dispel Chaos"
+    },
+    {
+      "weight": 1,
+      "name": "Dispel Evil"
+    },
+    {
+      "weight": 1,
+      "name": "Holy Sword"
+    },
+    {
+      "weight": 1,
+      "name": "Mark of Justice"
+    },
+    {
+      "weight": 1,
+      "name": "Neutralize Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Restoration"
+    }
+ ]
+}

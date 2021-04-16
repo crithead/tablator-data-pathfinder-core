@@ -1,0 +1,31 @@
+{
+  "name": "Table 13-9: Random Weather - Cold Climate",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 70,
+      "name": "cold, calm"
+    },
+    {
+      "weight": 3,
+      "name": "heat wave"
+    },
+    {
+      "weight": 7,
+      "name": "cold snap"
+    },
+    {
+      "weight": 10,
+      "name": "snow"
+    },
+    {
+      "weight": 9,
+      "name": "snow storm"
+    },
+    {
+      "weight": 1,
+      "name": "blizzard"
+    }
+  ]
+}

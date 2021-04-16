@@ -1,0 +1,115 @@
+{
+  "name": "Cleric Spells, Level 4",
+  "type": "items",
+  "total-weight": 27,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Air Walk"
+    },
+    {
+      "weight": 1,
+      "name": "Chaos Hammer"
+    },
+    {
+      "weight": 1,
+      "name": "Control Weather"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Critical Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Death Ward"
+    },
+    {
+      "weight": 1,
+      "name": "Dimensional Anchor"
+    },
+    {
+      "weight": 1,
+      "name": "Discern Lies"
+    },
+    {
+      "weight": 1,
+      "name": "Dismissal"
+    },
+    {
+      "weight": 1,
+      "name": "Divination"
+    },
+    {
+      "weight": 1,
+      "name": "Divine Power"
+    },
+    {
+      "weight": 1,
+      "name": "Freedom of Movement"
+    },
+    {
+      "weight": 1,
+      "name": "Giant Vermin"
+    },
+    {
+      "weight": 1,
+      "name": "Holy Smite"
+    },
+    {
+      "weight": 1,
+      "name": "Imbue with Spell Ability"
+    },
+    {
+      "weight": 1,
+      "name": "Inflict Critical Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Weapon, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Neutralize Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Order's Wrath"
+    },
+    {
+      "weight": 1,
+      "name": "Planar Ally, Lesser"
+    },
+    {
+      "weight": 1,
+      "name": "Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Repel Vermin"
+    },
+    {
+      "weight": 1,
+      "name": "Restoration"
+    },
+    {
+      "weight": 1,
+      "name": "Sending"
+    },
+    {
+      "weight": 1,
+      "name": "Spell Immunity"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster IV"
+    },
+    {
+      "weight": 1,
+      "name": "Tongues"
+    },
+    {
+      "weight": 1,
+      "name": "Unholy Blight"
+    }
+  ]
+}

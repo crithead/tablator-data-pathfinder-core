@@ -1,0 +1,54 @@
+{
+  "name": "Table 15-25: Intelligent Item Purpose",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 20,
+      "name": "Defeat/slay diametrically opposed alignment"
+    },
+    {
+      "weight": 10,
+      "name": "Defeat/slay arcane spellcasters"
+    },
+    {
+      "weight": 10,
+      "name": "Defeat/slay divine spellcasters"
+    },
+    {
+      "weight": 10,
+      "name": "Defeat/slay non-spellcasters"
+    },
+    {
+      "weight": 5,
+      "name": "Defeat/slay a particular creature type",
+      "subtable": "designated-type"
+    },
+    {
+      "weight": 5,
+      "name": "Defeat/slay a particular race of kind of creature"
+    },
+    {
+      "weight": 10,
+      "name": "Defend a particular race or kind of creature"
+    },
+    {
+      "weight": 10,
+      "name": "Defeat/slay the servants of a specific diety",
+      "subtable": "deities"
+    },
+    {
+      "weight": 10,
+      "name": "Defend the servants and interests of a specific diety",
+      "subtable": "deities"
+    },
+    {
+      "weight": 5,
+      "name": "Defeat/slay all (other than the item and the wielder)"
+    },
+    {
+      "weight": 5,
+      "name": "Choose one"
+    }
+  ]
+}

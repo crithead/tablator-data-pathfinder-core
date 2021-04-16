@@ -1,0 +1,19 @@
+{
+  "name": "Table 15-6: Minor Specific Armor",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 50,
+      "name": "mithral shirt"
+    },
+    {
+      "weight": 30,
+      "name": "dragonhide plate"
+    },
+    {
+      "weight": 20,
+      "name": "elven chain"
+    }
+  ]
+}

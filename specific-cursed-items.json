@@ -1,0 +1,124 @@
+{
+  "name": "Table 15-28: Specific Cursed Items",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "Incense of obsession"
+    },
+    {
+      "weight": 10,
+      "name": "Ring of clumsiness"
+    },
+    {
+      "weight": 5,
+      "name": "Amulet of inescapable location"
+    },
+    {
+      "weight": 5,
+      "name": "Stone of weight"
+    },
+    {
+      "weight": 5,
+      "name": "Bracers of defenselessness"
+    },
+    {
+      "weight": 5,
+      "name": "Gauntlets of fumbling"
+    },
+    {
+      "weight": 5,
+      "name": "Sword -2, cursed"
+    },
+    {
+      "weight": 3,
+      "name": "Armor of rage"
+    },
+    {
+      "weight": 3,
+      "name": "Medallion of thought projection"
+    },
+    {
+      "weight": 6,
+      "name": "Flask of curses"
+    },
+    {
+      "weight": 2,
+      "name": "Dust of sneezing and choking"
+    },
+    {
+      "weight": 1,
+      "name": "Helm of opposite alignment"
+    },
+    {
+      "weight": 5,
+      "name": "Potion of poison"
+    },
+    {
+      "weight": 1,
+      "name": "Broom of animated attack"
+    },
+    {
+      "weight": 2,
+      "name": "Robe of powerlessness"
+    },
+    {
+      "weight": 1,
+      "name": "Vacuous grimoire"
+    },
+    {
+      "weight": 4,
+      "name": "Spear, cursed backbiter"
+    },
+    {
+      "weight": 2,
+      "name": "Armor of arrow attraction",
+      "subtable": "armor-type"
+    },
+    {
+      "weight": 2,
+      "name": "Net of snaring"
+    },
+    {
+      "weight": 3,
+      "name": "Bag of devouring"
+    },
+    {
+      "weight": 5,
+      "name": "Mace of blood"
+    },
+    {
+      "weight": 5,
+      "name": "Robe of vermin"
+    },
+    {
+      "weight": 3,
+      "name": "Periapt of foul rotting"
+    },
+    {
+      "weight":4,
+      "name": "Sword, berserking"
+    },
+    {
+      "weight": 4,
+      "name": "Boots of dancing"
+    },
+    {
+      "weight": 1,
+      "name": "Crystal hypnosis ball"
+    },
+    {
+      "weight": 1,
+      "name": "Necklace of strangulation"
+    },
+    {
+      "weight": 1,
+      "name": "Poisonous cloak"
+    },
+    {
+      "weight": 1,
+      "name": "Scarab of death"
+    }
+  ]
+}

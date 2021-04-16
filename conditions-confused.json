@@ -1,0 +1,23 @@
+{
+  "name": "Conditions: Confused",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 25,
+      "name": "Act normally"
+    },
+    {
+      "weight": 25,
+      "name": "Do nothing but babble incoherently"
+    },
+    {
+      "weight": 25,
+      "name": "Deal 1d8 + Str modifier to self with item in hand"
+    },
+    {
+      "weight": 25,
+      "name": "Attack nearest creature"
+    }
+  ]
+}

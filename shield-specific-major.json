@@ -1,0 +1,27 @@
+{
+  "name": "Table 15-7: Major Specific Shield",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 20,
+      "name": "caster's shield (light wooden)"
+    },
+    {
+      "weight": 20,
+      "name": "spined shield (heavy steel)"
+    },
+    {
+      "weight": 20,
+      "name": "lion's shield (heavy steel)"
+    },
+    {
+      "weight": 30,
+      "name": "winged shield (heavy wooden)"
+    },
+    {
+      "weight": 10,
+      "name": "absorbing shield (heavy steel)"
+    }
+  ]
+}

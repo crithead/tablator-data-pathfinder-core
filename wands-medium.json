@@ -1,0 +1,17 @@
+{
+  "name": "Table 15-7: Medium Wands",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 60,
+      "name": "spell level: 2nd, caster level: 3rd",
+      "subtable": "spells-2"
+    },
+    {
+      "weight": 40,
+      "name": "spell level: 3rd, caster level: 5th",
+      "subtable": "spells-3"
+    }
+  ]
+}

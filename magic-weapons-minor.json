@@ -1,0 +1,26 @@
+{
+  "name": "Table 15-8: Minor Magic Weapons",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 70,
+      "name": "+1 weapon",
+      "subtable": "weapon-type"
+    },
+    {
+      "weight": 15,
+      "name": "+2 weapon",
+      "subtable": "weapon-type"
+    },
+    {
+      "weight": 5,
+      "name": "Specific weapon",
+      "subtable": "specific-weapons-minor"
+    },
+    {
+      "weight": 10,
+      "name": "Special ability and roll again"
+    }
+  ]
+}

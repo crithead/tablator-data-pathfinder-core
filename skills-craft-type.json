@@ -1,0 +1,28 @@
+{
+  "name": "Craft Skills",
+  "type": "items",
+  "total-weight": 21,
+  "rows": [
+    { "name": "alchemy" },
+    { "name": "armor" },
+    { "name": "baskets" },
+    { "name": "books" },
+    { "name": "bows" },
+    { "name": "calligraphy" },
+    { "name": "carpentry" },
+    { "name": "cloth" },
+    { "name": "clothing" },
+    { "name": "glass" },
+    { "name": "jewelry" },
+    { "name": "leather" },
+    { "name": "locks" },
+    { "name": "paintings" },
+    { "name": "pottery" },
+    { "name": "sculpture" },
+    { "name": "ships" },
+    { "name": "shoes" },
+    { "name": "stonemasonry" },
+    { "name": "traps" },
+    { "name": "weapons" }
+  ]
+}

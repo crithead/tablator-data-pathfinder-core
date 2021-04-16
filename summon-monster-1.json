@@ -1,0 +1,39 @@
+{
+  "name": "Table 10-1: Summon Monster I",
+  "type": "items",
+  "total-weight": 8,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Dire rat"
+    },
+    {
+      "weight": 1,
+      "name": "Dog"
+    },
+    {
+      "weight": 1,
+      "name": "Dolphin"
+    },
+    {
+      "weight": 1,
+      "name": "Eagle"
+    },
+    {
+      "weight": 1,
+      "name": "Fire beetle"
+    },
+    {
+      "weight": 1,
+      "name": "Frog, poison"
+    },
+    {
+      "weight": 1,
+      "name": "Pony (horse)"
+    },
+    {
+      "weight": 1,
+      "name": "Viper (snake)"
+    }
+  ]
+}

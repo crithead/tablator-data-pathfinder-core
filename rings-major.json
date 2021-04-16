@@ -1,0 +1,123 @@
+{
+  "name": "Table 15-13: Major Rings",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 2,
+      "name": "ring of minor energy resistance"
+    },
+    {
+      "weight": 5,
+      "name": "ring of protection +3"
+    },
+    {
+      "weight": 3,
+      "name": "ring of minor spell storing"
+    },
+    {
+      "weight": 5,
+      "name": "ring of invisibility"
+    },
+    {
+      "weight": 4,
+      "name": "ring of wizardry (I)"
+    },
+    {
+      "weight": 6,
+      "name": "ring of evasion"
+    },
+    {
+      "weight": 3,
+      "name": "ring of x-ray vision"
+    },
+    {
+      "weight": 4,
+      "name": "ring of blinking"
+    },
+    {
+      "weight": 7,
+      "name": "ring of major energy resistance"
+    },
+    {
+      "weight": 10,
+      "name": "ring of protection +4"
+    },
+    {
+      "weight": 6,
+      "name": "ring of wizardry (II)"
+    },
+    {
+      "weight": 5,
+      "name": "ring of freedom of movement"
+    },
+    {
+      "weight": 3,
+      "name": "ring of greater energy resistance"
+    },
+    {
+      "weight": 2,
+      "name": "ring of friend shield (pair)"
+    },
+    {
+      "weight": 5,
+      "name": "ring of protection +5"
+    },
+    {
+      "weight": 4,
+      "name": "ring of shooting stars"
+    },
+    {
+      "weight": 5,
+      "name": "ring of spell storing"
+    },
+    {
+      "weight": 4,
+      "name": "ring of wizardry (III)"
+    },
+    {
+      "weight": 3,
+      "name": "ring of telekinesis"
+    },
+    {
+      "weight": 2,
+      "name": "ring of regeneration"
+    },
+    {
+      "weight": 3,
+      "name": "ring of spell turning"
+    },
+    {
+      "weight": 2,
+      "name": "ring of wizardry (IV)"
+    },
+    {
+      "weight": 1,
+      "name": "ring of three wishes"
+    },
+    {
+      "weight": 1,
+      "name": "ring of djinni calling"
+    },
+    {
+      "weight": 1,
+      "name": "ring of air elemental command"
+    },
+    {
+      "weight": 1,
+      "name": "ring of earth elemental command"
+    },
+    {
+      "weight": 1,
+      "name": "ring of fire elemental command"
+    },
+    {
+      "weight": 1,
+      "name": "ring of water elemental command"
+    },
+    {
+      "weight": 1,
+      "name": "ring of major spell storing"
+    }
+  ]
+}

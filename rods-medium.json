@@ -1,0 +1,75 @@
+{
+  "name": "Table 15-14: Medium Rods",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 7,
+      "name": "rod of metamagic, lesser enlarge"
+    },
+    {
+      "weight": 7,
+      "name": "rod of metamagic, lesser extend"
+    },
+    {
+      "weight": 7,
+      "name": "rod of metamaGIC, lesser silent"
+    },
+    {
+      "weight": 7,
+      "name": "immovable rod "
+    },
+    {
+      "weight": 7,
+      "name": "rod of metamagic, lesser empower"
+    },
+    {
+      "weight": 7,
+      "name": "rod of metal and mineral detection"
+    },
+    {
+      "weight": 11,
+      "name": "rod of cancellation"
+    },
+    {
+      "weight": 4,
+      "name": "rod of metamagic, enlarge"
+    },
+    {
+      "weight": 4,
+      "name": "rod of metamagic, extend"
+    },
+    {
+      "weight": 4,
+      "name": "rod of metamagic, silent"
+    },
+    {
+      "weight": 6,
+      "name": "rod of wonder"
+    },
+    {
+      "weight": 8,
+      "name": "rod of the python"
+    },
+    {
+      "weight": 4,
+      "name": "rod of metamagic, lesser maximize"
+    },
+    {
+      "weight": 6,
+      "name": "rod of flame extinguishing "
+    },
+    {
+      "weight": 8,
+      "name": "rod of the viper"
+    },
+    {
+      "weight": 2,
+      "name": "rod of metamagic, empower"
+    },
+    {
+      "weight": 1,
+      "name": "rod of metamagic, lesser quicken"
+    }
+  ]
+}

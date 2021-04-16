@@ -1,0 +1,35 @@
+{
+  "name": "Ranger Spells, Level 4",
+  "type": "items",
+  "total-weight": 7,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Animal Growth"
+    },
+    {
+      "weight": 1,
+      "name": "Commune with Nature"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Serious Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Freedom of Movement"
+    },
+    {
+      "weight": 1,
+      "name": "Nondetection"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Nature's Ally IV"
+    },
+    {
+      "weight": 1,
+      "name": "Tree Stride"
+    }
+  ]
+}

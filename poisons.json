@@ -1,0 +1,112 @@
+{
+  "name": "Poisons",
+  "type": "items",
+  "total-weight": 35,
+  "rows": [
+    {
+      "name": "Arsenic"
+    },
+    {
+      "name": "Belladonna"
+    },
+    {
+      "name": "Black adder venom"
+    },
+    {
+      "name": "Black lotus extract"
+    },
+    {
+      "name": "Bloodroot"
+    },
+    {
+      "name": "Blue whinnis"
+    },
+    {
+      "name": "Burnt othur fumes"
+    },
+    {
+      "name": "Dark reaver powder"
+    },
+    {
+      "name": "Deathblade"
+    },
+    {
+      "name": "Dragon bile"
+    },
+    {
+      "name": "Drow poison"
+    },
+    {
+      "name": "Giant wasp poison"
+    },
+    {
+      "name": "Greenblood oil"
+    },
+    {
+      "name": "Green prismatic poison"
+    },
+    {
+      "name": "Hemlock"
+    },
+    {
+      "name": "Id moss"
+    },
+    {
+      "name": "Insanity mist"
+    },
+    {
+      "name": "King's sleep"
+    },
+    {
+      "name": "Large scorpion venom"
+    },
+    {
+      "name": "Lich dust"
+    },
+    {
+      "name": "Malyass root paste"
+    },
+    {
+      "name": "Medium spider venom"
+    },
+    {
+      "name": "Nightmare vapor"
+    },
+    {
+      "name": "Nitharit"
+    },
+    {
+      "name": "Oil of taggit"
+    },
+    {
+      "name": "Purple worm poison"
+    },
+    {
+      "name": "Sassone leaf residue"
+    },
+    {
+      "name": "Shadow essense"
+    },
+    {
+      "name": "Small centipede poison"
+    },
+    {
+      "name": "Striped toadstool"
+    },
+    {
+      "name": "Tears of death"
+    },
+    {
+      "name": "Terinav root"
+    },
+    {
+      "name": "Ungol dust"
+    },
+    {
+      "name": "Wolfsbane"
+    },
+    {
+      "name": "Wyvern poison"
+    }
+  ]
+}

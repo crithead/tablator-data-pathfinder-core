@@ -1,0 +1,55 @@
+{
+  "name": "Cleric Spells, Level 0",
+  "type": "items",
+  "total-weight": 12,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Bleed"
+    },
+    {
+      "weight": 1,
+      "name": "Create Water"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Magic"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Guidance"
+    },
+    {
+      "weight": 1,
+      "name": "Light"
+    },
+    {
+      "weight": 1,
+      "name": "Mending"
+    },
+    {
+      "weight": 1,
+      "name": "Purify Food and Drink"
+    },
+    {
+      "weight": 1,
+      "name": "Read Magic"
+    },
+    {
+      "weight": 1,
+      "name": "Resistance"
+    },
+    {
+      "weight": 1,
+      "name": "Stabilize"
+    },
+    {
+      "weight": 1,
+      "name": "Virtue"
+    }
+  ]
+}

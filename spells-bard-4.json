@@ -1,0 +1,91 @@
+{
+  "name": "Bard Spells, Level 4",
+  "type": "items",
+  "total-weight": 21,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Break Enchantment"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Critical Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Scrying"
+    },
+    {
+      "weight": 1,
+      "name": "Dimension Door"
+    },
+    {
+      "weight": 1,
+      "name": "Dominate Person"
+    },
+    {
+      "weight": 1,
+      "name": "Freedom of Movement"
+    },
+    {
+      "weight": 1,
+      "name": "Hallucinatory Terrain"
+    },
+    {
+      "weight": 1,
+      "name": "Hold Monster"
+    },
+    {
+      "weight": 1,
+      "name": "Invisibility, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Legend Lore"
+    },
+    {
+      "weight": 1,
+      "name": "Locate Creature"
+    },
+    {
+      "weight": 1,
+      "name": "Modify Memory"
+    },
+    {
+      "weight": 1,
+      "name": "Neutralize Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Rainbow Pattern"
+    },
+    {
+      "weight": 1,
+      "name": "Repel Vermin"
+    },
+    {
+      "weight": 1,
+      "name": "Secure Shelter"
+    },
+    {
+      "weight": 1,
+      "name": "Shadow Conjuration"
+    },
+    {
+      "weight": 1,
+      "name": "Shout"
+    },
+    {
+      "weight": 1,
+      "name": "Speak with Plants"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster IV"
+    },
+    {
+      "weight": 1,
+      "name": "Zone of Silence"
+    }
+  ]
+}

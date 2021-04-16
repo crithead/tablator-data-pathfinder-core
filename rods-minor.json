@@ -1,0 +1,11 @@
+{
+  "name": "Table 15-12: Minor Rods",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 100,
+      "name": "nope"
+    }
+  ]
+}

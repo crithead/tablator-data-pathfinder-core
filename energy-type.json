@@ -1,0 +1,27 @@
+{
+  "name": "Energy Type",
+  "type": "items",
+  "total-weight": 10,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "acid"
+    },
+    {
+      "weight": 3,
+      "name": "cold"
+    },
+    {
+      "weight": 2,
+      "name": "electricity"
+    },
+    {
+      "weight": 3,
+      "name": "fire"
+    },
+    {
+      "weight": 1,
+      "name": "sonic"
+    }
+  ]
+}

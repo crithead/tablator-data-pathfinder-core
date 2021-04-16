@@ -1,0 +1,39 @@
+{
+  "name": "Table 15-6: Major Specific Armor",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "name": "adamantine breastplate"
+    },
+    {
+      "weight": 10,
+      "name": "dwarven plate"
+    },
+    {
+      "weight": 12,
+      "name": "banded mail of luck"
+    },
+    {
+      "weight": 18,
+      "name": "celestial armor"
+    },
+    {
+      "weight": 10,
+      "name": "plate armor of the deep"
+    },
+    {
+      "weight": 15,
+      "name": "breastplate of command"
+    },
+    {
+      "weight": 15,
+      "name": "mithral full plate of speed"
+    },
+    {
+      "weight": 10,
+      "name": "demon armor"
+    }
+  ]
+}

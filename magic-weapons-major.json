@@ -1,0 +1,31 @@
+{
+  "name": "Table 15-8: Major Magic Weapons",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 20,
+      "name": "+3 weapon",
+      "subtable": "weapon-type"
+    },
+    {
+      "weight": 18,
+      "name": "+4 weapon",
+      "subtable": "weapon-type"
+    },
+    {
+      "weight": 11,
+      "name": "+5 weapon",
+      "subtable": "weapon-type"
+    },
+    {
+      "weight": 14,
+      "name": "Specific weapon",
+      "subtable": "specific-weapons-major"
+    },
+    {
+      "weight": 37,
+      "name": "Special ability and roll again"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Table 15-15: Minor Scrolls",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "spell level: 0th, caster level: 1st",
+      "subtable": "spells-0"
+    },
+    {
+      "weight": 45,
+      "name": "spell level: 1st, caster level: 1st",
+      "subtable": "spells-1"
+    },
+    {
+      "weight": 45,
+      "name": "spell level: 2nd, caster level: 3rd",
+      "subtable": "spells-2"
+    },
+    {
+      "weight": 5,
+      "name": "spell level: 3rd, caster level: 5th",
+      "subtable": "spells-3"
+    }
+  ]
+}

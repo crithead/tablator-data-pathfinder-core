@@ -1,0 +1,134 @@
+{
+  "name": "Magic Item Drawbacks",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 4,
+      "name": "Character's hair grows 1 inch loner every hour"
+    },
+    {
+      "weight": 5,
+      "name": "Character height changes by 6 inches. Only happens once",
+      "subtable": "grows-shrinks"
+    },
+    {
+      "weight": 4,
+      "name": "Temperature around item is 10° F cooler than normal"
+    },
+    {
+      "weight": 4,
+      "name": "Temperature around item is 10° F warmer than normal"
+    },
+    {
+      "weight": 4,
+      "name": "Character's hair color changes"
+    },
+    {
+      "weight": 4,
+      "name": "Character's skin color changes"
+    },
+    {
+      "weight": 4,
+      "name": "Character now bears some identifying mark (tattoo, weird glow, or the like)."
+    },
+    {
+      "weight": 3,
+      "name": "Character's gender changes"
+    },
+    {
+      "weight": 2,
+      "name": "Character's race or kind changes"
+    },
+    {
+      "weight": 1,
+      "name": "Character is afflicted with a random disease that cannot be cured",
+      "subtable": "diseases"
+    },
+    {
+      "weight": 4,
+      "name": "Item continually emits a disturbing sound",
+      "subtable": "disturbing-sounds"
+    },
+    {
+      "weight": 1,
+      "name": "Item looks ridiculous"
+    },
+    {
+      "weight": 5,
+      "name": "Character become selfishly possessive"
+    },
+    {
+      "weight": 4,
+      "name": "Character becomes paranoid about losing the item and afraid of damage occurring to it"
+    },
+    {
+      "weight": 2,
+      "name": "Character's alignment changes"
+    },
+    {
+      "weight": 3,
+      "name": "Character must attack nearest creature (5% chance) each day"
+    },
+    {
+      "weight": 3,
+      "name": "Character is stunned for 1d4 rounds once item function is finished"
+    },
+    {
+      "weight": 3,
+      "name": "Character’s vision is blurry (–2 penalty on attack rolls, saves, and skill checks requiring vision)"
+    },
+    {
+      "weight": 4,
+      "name": "Character gains one negative level"
+    },
+    {
+      "weight": 1,
+      "name": "Character gains two negative levels"
+    },
+    {
+      "weight": 5,
+      "name": "Character must make a Will save each day or take 1 point of Intelligence damage"
+    },
+    {
+      "weight": 5,
+      "name": "Character must make a Will save each day or take 1 point of Wisdom damage"
+    },
+    {
+      "weight": 5,
+      "name": "Character must make a Will save each day or take 1 point of Charisma damage"
+    },
+    {
+      "weight": 5,
+      "name": "Character must make a Fortitude save each day or take 1 point of Constitution damage"
+    },
+    {
+      "weight": 5,
+      "name": "Character must make a Fortitude save each day or take 1 point of Strength damage"
+    },
+    {
+      "weight": 5,
+      "name": "Character must make a Fortitude save each day or take 1 point of Dexterity damage"
+    },
+    {
+      "weight": 1,
+      "name": "Character is polymorphed into a specific creature (5% chance each day) "
+    },
+    {
+      "weight": 1,
+      "name": "Character cannot cast arcane spells"
+    },
+    {
+      "weight": 1,
+      "name": "Character cannot cast devine spells"
+    },
+    {
+      "weight": 1,
+      "name": "Character cannot cast any spells"
+    },
+    {
+      "weight": 1,
+      "name": "(pick one or customize to item)"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Table 15-11: Major Specific Weapons",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 4,
+      "name": "Assassin's dagger"
+    },
+    {
+      "weight": 3,
+      "name": "Shifter's sorrow"
+    },
+    {
+      "weight": 2,
+      "name": "Trident of fish command"
+    },
+    {
+      "weight": 4,
+      "name": "Flametongue"
+    },
+    {
+      "weight": 4,
+      "name": "Luckblade (0 wishes)"
+    },
+    {
+      "weight": 7,
+      "name": "Sword of subtlety"
+    },
+    {
+      "weight": 7,
+      "name": "Sword of the planes"
+    },
+    {
+      "weight": 6,
+      "name": "Nine lives stealer"
+    },
+    {
+      "weight": 5,
+      "name": "Oathbow"
+    },
+    {
+      "weight": 4,
+      "name": "Sword of life stealing"
+    },
+    {
+      "weight": 5,
+      "name": "Mace of terror"
+    },
+    {
+      "weight": 6,
+      "name": "Life-drinker"
+    },
+    {
+      "weight": 5,
+      "name": "Sylvan scimitar"
+    },
+    {
+      "weight": 5,
+      "name": "Rapier of puncturing"
+    },
+    {
+      "weight": 6,
+      "name": "Sun blade"
+    },
+    {
+      "weight": 6,
+      "name": "Frost brand"
+    },
+    {
+      "weight": 5,
+      "name": "Dwarven thrower"
+    },
+    {
+      "weight": 7,
+      "name": "Luck blade (1 wish)"
+    },
+    {
+      "weight": 4,
+      "name": "Mace of smiting"
+    },
+    {
+      "weight": 2,
+      "name": "Luck blade (2 wishes)"
+    },
+    {
+      "weight": 2,
+      "name": "Holy avenger"
+    },
+    {
+      "weight": 1,
+      "name": "Luck blade (3 wishes)"
+    }
+  ]
+}

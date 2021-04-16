@@ -1,0 +1,35 @@
+{
+  "name": "Table 15-2: Random Minor Magic Item Generation",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight":4,
+      "table": "armor-shields-minor"
+    },
+    {
+      "weight": 5,
+      "table": "magic-weapons-minor"
+    },
+    {
+      "weight": 35,
+      "table": "potions-minor"
+    },
+    {
+      "weight": 2,
+      "table": "rings-minor"
+    },
+    {
+      "weight": 35,
+      "table": "scrolls-minor"
+    },
+    {
+      "weight": 10,
+      "table": "wands-minor"
+    },
+    {
+      "weight": 9,
+      "table": "wondrous-items-minor"
+    }
+  ]
+}

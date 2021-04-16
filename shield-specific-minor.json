@@ -1,0 +1,23 @@
+{
+  "name": "Table 15-7: Minor Specific Shield",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 30,
+      "name": "darkwood buckler"
+    },
+    {
+      "weight": 50,
+      "name": "darkwood shield (heavy wooden)"
+    },
+    {
+      "weight": 15,
+      "name": "mithral heavy shield"
+    },
+    {
+      "weight": 5,
+      "name": "caster's shield (light wooden)"
+    }
+  ]
+}

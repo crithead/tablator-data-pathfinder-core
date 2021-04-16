@@ -1,0 +1,108 @@
+{
+  "name": "Table 15-9: Major Melee Weapon Special Abilities",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 3,
+      "name": "Bane",
+      "subtable": "designated-type"
+    },
+    {
+      "weight": 3,
+      "name": "Flaming"
+    },
+    {
+      "weight": 3,
+      "name": "Frost"
+    },
+    {
+      "weight": 3,
+      "name": "Shock"
+    },
+    {
+      "weight": 3,
+      "name": "Ghost touch"
+    },
+    {
+      "weight": 4,
+      "name": "Ki-focus"
+    },
+    {
+      "weight": 2,
+      "name": "Mighty cleaving"
+    },
+    {
+      "weight": 3,
+      "name": "Spell storing"
+    },
+    {
+      "weight": 4,
+      "name": "Throwing"
+    },
+    {
+      "weight": 4,
+      "name": "Thundering"
+    },
+    {
+      "weight": 4,
+      "name": "Vicious"
+    },
+    {
+      "weight": 5,
+      "name": "Anarchic"
+    },
+    {
+      "weight": 5,
+      "name": "Axiomatic"
+    },
+    {
+      "weight": 3,
+      "name": "Disruption"
+    },
+    {
+      "weight": 5,
+      "name": "Flaming burst"
+    },
+    {
+      "weight": 5,
+      "name": "Icy burst"
+    },
+    {
+      "weight": 5,
+      "name": "Holy"
+    },
+    {
+      "weight": 5,
+      "name": "Shocking burst"
+    },
+    {
+      "weight": 5,
+      "name": "Unholy"
+    },
+    {
+      "weight": 4,
+      "name": "Wounding"
+    },
+    {
+      "weight":5,
+      "name": "Speed"
+    },
+    {
+      "weight": 3,
+      "name": "Brilliant energy"
+    },
+    {
+      "weight": 2,
+      "name": "Dancing"
+    },
+    {
+      "weight": 2,
+      "name": "Vorpal"
+    },
+    {
+      "weight": 10,
+      "name": "Roll again twice"
+    }
+  ]
+}

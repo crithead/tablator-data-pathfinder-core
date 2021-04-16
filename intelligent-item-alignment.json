@@ -1,0 +1,43 @@
+{
+  "name": "Table 15-21: Intelligent Item Alignment",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "name": "Chaotic good"
+    },
+    {
+      "weight": 10,
+      "name": "Chaotic neutral"
+    },
+    {
+      "weight": 15,
+      "name": "Chaotic evil"
+    },
+    {
+      "weight": 10,
+      "name": "Neutral evil"
+    },
+    {
+      "weight": 10,
+      "name": "Lawful evil"
+    },
+    {
+      "weight": 15,
+      "name": "Lawful good"
+    },
+    {
+      "weight": 10,
+      "name": "Lawful neutral"
+    },
+    {
+      "weight": 10,
+      "name": "Neutral good"
+    },
+    {
+      "weight": 10,
+      "name": "Neutral"
+    }
+  ]
+}

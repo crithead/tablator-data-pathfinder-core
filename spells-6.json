@@ -1,0 +1,23 @@
+{
+  "name": "Level 6 Spells",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "table": "spells-bard-6"
+    },
+    {
+      "weight": 30,
+      "table": "spells-cleric-6"
+    },
+    {
+      "weight": 10,
+      "table": "spells-druid-6"
+    },
+    {
+      "weight": 50,
+      "table": "spells-wizard-6"
+    }
+  ]
+}

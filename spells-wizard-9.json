@@ -1,0 +1,103 @@
+{
+  "name": "Wizard/Sorcerer Spells, Level 9",
+  "type": "items",
+  "total-weight": 24,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Astral Projection"
+    },
+    {
+      "weight": 1,
+      "name": "Crushing Hand"
+    },
+    {
+      "weight": 1,
+      "name": "Dominate Monster"
+    },
+    {
+      "weight": 1,
+      "name": "Energy Drain"
+    },
+    {
+      "weight": 1,
+      "name": "Etherealness"
+    },
+    {
+      "weight": 1,
+      "name": "Foresight"
+    },
+    {
+      "weight": 1,
+      "name": "Freedom"
+    },
+    {
+      "weight": 1,
+      "name": "Gate"
+    },
+    {
+      "weight": 1,
+      "name": "Imprisonment"
+    },
+    {
+      "weight": 1,
+      "name": "Mage's Disjunction"
+    },
+    {
+      "weight": 1,
+      "name": "Mass Hold Monster"
+    },
+    {
+      "weight": 1,
+      "name": "Meteor Swarm"
+    },
+    {
+      "weight": 1,
+      "name": "Power Word Kill"
+    },
+    {
+      "weight": 1,
+      "name": "Prismatic Sphere"
+    },
+    {
+      "weight": 1,
+      "name": "Refuge"
+    },
+    {
+      "weight": 1,
+      "name": "Shade"
+    },
+    {
+      "weight": 1,
+      "name": "Shapechange"
+    },
+    {
+      "weight": 1,
+      "name": "Soul Bind"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster IX"
+    },
+    {
+      "weight": 1,
+      "name": "Teleportation Circle"
+    },
+    {
+      "weight": 1,
+      "name": "Time Stop"
+    },
+    {
+      "weight": 1,
+      "name": "Wail of the Banshee"
+    },
+    {
+      "weight": 1,
+      "name": "Weird"
+    },
+    {
+      "weight": 1,
+      "name": "Wish"
+    }
+  ]
+}

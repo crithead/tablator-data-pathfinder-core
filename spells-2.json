@@ -1,0 +1,31 @@
+{
+  "name": "Level 2 Spells",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "table": "spells-bard-2"
+    },
+    {
+      "weight": 25,
+      "table": "spells-cleric-2"
+    },
+    {
+      "weight": 10,
+      "table": "spells-druid-2"
+    },
+    {
+      "weight": 10,
+      "table": "spells-paladin-2"
+    },
+    {
+      "weight": 10,
+      "table": "spells-ranger-2"
+    },
+    {
+      "weight": 35,
+      "table": "spells-wizard-2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Metamagic Feats",
+  "type": "items",
+  "total-weight": 9,
+  "rows": [
+    { "name": "Empower Spell" },
+    { "name": "Enlarge Spell" },
+    { "name": "Extend Spell" },
+    { "name": "Heighten Spell" },
+    { "name": "Maximize Spell" },
+    { "name": "Quicken Spell" },
+    { "name": "Silent Spell" },
+    { "name": "Still Spell" },
+    { "name": "Widen Spell" }
+  ]
+}

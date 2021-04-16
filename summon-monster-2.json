@@ -1,0 +1,56 @@
+{
+  "name": "Table 10-1: Summon Monster II",
+  "type": "items",
+  "total-weight": 12,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Ant, giant (worker)"
+    },
+    {
+      "weight": 1,
+      "name": "Elemental, small",
+      "subtable": "elemental-type"
+    },
+    {
+      "weight": 1,
+      "name": "Giant centipede"
+    },
+    {
+      "weight": 1,
+      "name": "Giant frog"
+    },
+    {
+      "weight": 1,
+      "name": "Giant spider"
+    },
+    {
+      "weight": 1,
+      "name": "Goblin dog"
+    },
+    {
+      "weight": 1,
+      "name": "Horse"
+    },
+    {
+      "weight": 1,
+      "name": "Hyena"
+    },
+    {
+      "weight": 1,
+      "name": "Lemure (devil)"
+    },
+    {
+      "weight": 1,
+      "name": "Octopus"
+    },
+    {
+      "weight": 1,
+      "name": "Squid"
+    },
+    {
+      "weight": 1,
+      "name": "Wolf"
+    }
+  ]
+}

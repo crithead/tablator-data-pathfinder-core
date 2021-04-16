@@ -1,0 +1,27 @@
+{
+  "name": "Table 15-15: Medium Scrolls",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "spell level: 2nd, caster level: 3rd",
+      "subtable": "spells-2"
+    },
+    {
+      "weight": 60,
+      "name": "spell level: 3rd, caster level: 5th",
+      "subtable": "spells-3"
+    },
+    {
+      "weight": 30,
+      "name": "spell level: 4th, caster level: 7th",
+      "subtable": "spells-4"
+    },
+    {
+      "weight": 5,
+      "name": "spell level: 5th, caster level: 9th",
+      "subtable": "spells-5"
+    }
+  ]
+}

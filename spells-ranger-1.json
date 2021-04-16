@@ -1,0 +1,83 @@
+{
+  "name": "Ranger Spells, Level 1",
+  "type": "items",
+  "total-weight": 19,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Alarm"
+    },
+    {
+      "weight": 1,
+      "name": "Animal Messenger"
+    },
+    {
+      "weight": 1,
+      "name": "Calm Animals"
+    },
+    {
+      "weight": 1,
+      "name": "Charm Animal"
+    },
+    {
+      "weight": 1,
+      "name": "Delay Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Animals or Plants"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Snares and Pits"
+    },
+    {
+      "weight": 1,
+      "name": "Endure Elements"
+    },
+    {
+      "weight": 1,
+      "name": "Entangle"
+    },
+    {
+      "weight": 1,
+      "name": "Hide from Animals"
+    },
+    {
+      "weight": 1,
+      "name": "Jump"
+    },
+    {
+      "weight": 1,
+      "name": "Longstrider"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Fang"
+    },
+    {
+      "weight": 1,
+      "name": "Pass without Trace"
+    },
+    {
+      "weight": 1,
+      "name": "Read Magic"
+    },
+    {
+      "weight": 1,
+      "name": "Resist Energy"
+    },
+    {
+      "weight": 1,
+      "name": "Speak with Animals"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Nature's Ally I"
+    }
+  ]
+}

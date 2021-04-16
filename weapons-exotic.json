@@ -1,0 +1,28 @@
+{
+  "name": "Exotic Weapons",
+  "type": "items",
+  "total-weight": 21,
+  "rows": [
+    { "name": "Kama" },
+    { "name": "Nunchaku" },
+    { "name": "Sai" },
+    { "name": "Siangham" },
+    { "name": "Bastard sword" },
+    { "name": "Dwarven waraxe" },
+    { "name": "Whip" },
+    { "name": "Orc double axe" },
+    { "name": "Spiked chain" },
+    { "name": "Elven curve blade" },
+    { "name": "Dire flail" },
+    { "name": "Gnome hooked hammer" },
+    { "name": "Two-bladed sword" },
+    { "name": "Dwarven urgrosh" },
+    { "name": "Bolas" },
+    { "name": "Hand crossbow" },
+    { "name": "Repeating heavy crossbow" },
+    { "name": "Repeating light crossbow" },
+    { "name": "Net" },
+    { "name": "Shuriken" },
+    { "name": "Halfling sling staff" }
+  ]
+}

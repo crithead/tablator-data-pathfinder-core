@@ -1,0 +1,87 @@
+{
+  "name": "Table 15-13: Medium Rings",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "ring of counterspells"
+    },
+    {
+      "weight": 3,
+      "name": "ring of mind shielding"
+    },
+    {
+      "weight": 10,
+      "name": "ring of protection +2"
+    },
+    {
+      "weight": 5,
+      "name": "ring of force shield"
+    },
+    {
+      "weight": 5,
+      "name": "ring of the ram"
+    },
+    {
+      "weight": 6,
+      "name": "ring of improved climbing"
+    },
+    {
+      "weight": 6,
+      "name": "ring of improved jumping"
+    },
+    {
+      "weight": 6,
+      "name": "ring of improved swimming"
+    },
+    {
+      "weight": 4,
+      "name": "ring of animal friendship"
+    },
+    {
+      "weight": 6,
+      "name": "ring of minor energy resistance"
+    },
+    {
+      "weight": 5,
+      "name": "ring of chameleon power"
+    },
+    {
+      "weight": 5,
+      "name": "ring of water walking"
+    },
+    {
+      "weight": 5,
+      "name": "ring of protection +3"
+    },
+    {
+      "weight": 5,
+      "name": "ring of minor spell storing"
+    },
+    {
+      "weight": 5,
+      "name": "ring of invisibility"
+    },
+    {
+      "weight": 4,
+      "name": "ring of wizardry (I)"
+    },
+    {
+      "weight": 5,
+      "name": "ring of evasion"
+    },
+    {
+      "weight": 3,
+      "name": "ring of x-ray vision"
+    },
+    {
+      "weight": 4,
+      "name": "ring of blinking"
+    },
+    {
+      "weight": 3,
+      "name": "ring of major energy resistance"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Table 15-4: Minor Armor Special Ability",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 25,
+      "name": "glamered"
+    },
+    {
+      "weight": 7,
+      "name": "fortification, light"
+    },
+    {
+      "weight": 20,
+      "name": "slick"
+    },
+    {
+      "weight": 40,
+      "name": "shadow"
+    },
+    {
+      "weight": 4,
+      "name": "spell resistance 13"
+    },
+    {
+      "weight": 1,
+      "name": "slick, improved"
+    },
+    {
+      "weight": 2,
+      "name": "shadow, improved"
+    },
+    {
+      "weight": 1,
+      "name": "roll twice"
+    }
+  ]
+}

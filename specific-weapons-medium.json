@@ -1,0 +1,81 @@
+{
+  "name": "Table 15-11: Medium Specific Weapons",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 9,
+      "name": "Javelin of lightning"
+    },
+    {
+      "weight": 6,
+      "name": "Slaying arrow",
+      "subtable": "designated-type"
+    },
+    {
+      "weight": 9,
+      "name": "Adamantine dagger"
+    },
+    {
+      "weight": 9,
+      "name": "Adamantine battleaxe"
+    },
+    {
+      "weight": 4,
+      "name": "Slaying arrow, greater",
+      "subtable": "designated-type"
+    },
+    {
+      "weight": 3,
+      "name": "Shatterspike"
+    },
+    {
+      "weight": 6,
+      "name": "Dagger of venom"
+    },
+    {
+      "weight": 5,
+      "name": "Trident of warning"
+    },
+    {
+      "weight": 6,
+      "name": "Assassin's dagger"
+    },
+    {
+      "weight": 5,
+      "name": "Shifter's sorrow"
+    },
+    {
+      "weight": 4,
+      "name": "Trident of fish command"
+    },
+    {
+      "weight": 8,
+      "name": "Flametongue"
+    },
+    {
+      "weight": 5,
+      "name": "Luckblade (0 wishes)"
+    },
+    {
+      "weight": 7,
+      "name": "Sword of subtlety"
+    },
+    {
+      "weight": 5,
+      "name": "Sword of the planes"
+    },
+    {
+      "weight": 4,
+      "name": "Nine lives stealer"
+    },
+    {
+      "weight": 3,
+      "name": "Oathbow"
+    },
+    {
+      "weight": 2,
+      "name": "Sword of life stealing"
+    }
+  ]
+}

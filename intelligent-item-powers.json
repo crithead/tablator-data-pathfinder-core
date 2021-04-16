@@ -1,0 +1,77 @@
+{
+  "name": "Table 15-24: Intelligent Item Powers",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "name": "Item can cast a 0-level spell at will",
+      "subtable": "spells-0"
+    },
+    {
+      "weight": 10,
+      "name": "Item can cast a 1st-level spell 3/day",
+      "subtable": "spells-1"
+    },
+    {
+      "weight": 5,
+      "name": "Item can use 'magic aura' on itself at will"
+    },
+    {
+      "weight": 10,
+      "name": "Item can cast a 2nd-level spell 1/day",
+      "subtable": "spells-2"
+    },
+    {
+      "weight": 10,
+      "name": "Item has 5 ranks in one skill",
+      "subtable": "skills"
+    },
+    {
+      "weight": 5,
+      "name": "Item can sprout limbs and move with a speed of 10 feet"
+    },
+    {
+      "weight": 5,
+      "name": "Item can cast a 3rd-level spell 1/day",
+      "subtable": "spells-3"
+    },
+    {
+      "weight": 5,
+      "name": "Item can cast a 2nd-level spell 3/day",
+      "subtable": "spells-2"
+    },
+    {
+      "weight": 10,
+      "name": "Item has 10 ranks in one skill",
+      "subtable": "skills"
+    },
+    {
+      "weight": 5,
+      "name": "Item can change shape to one other form of the same size"
+    },
+    {
+      "weight": 5,
+      "name": "Item can fly, as per the spell, at a speed of 30 feet"
+    },
+    {
+      "weight": 5,
+      "name": "Item can cast a 4th-level spell 1/day",
+      "subtable": "spells-4"
+    },
+    {
+      "weight": 5,
+      "name": "Item can teleport itself 1/day"
+    },
+    {
+      "weight": 5,
+      "name": "Item can cast a 3rd-level spell 3/day",
+      "subtable": "spells-3"
+    },
+    {
+      "weight": 5,
+      "name": "Item can cast a 4th-level spell 3/day",
+      "subtable": "spells-4"
+    }
+  ]
+}

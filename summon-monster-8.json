@@ -1,0 +1,20 @@
+{
+  "name": "Table 10-1: Summon Monster VIII",
+  "type": "items",
+  "total-weight": 3,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Barbed devil"
+    },
+    {
+      "weight": 1,
+      "name": "Elemental, elder",
+      "subtable": "elemental-type"
+    },
+    {
+      "weight": 1,
+      "name": "Hezrou (demon)"
+    }
+  ]
+}

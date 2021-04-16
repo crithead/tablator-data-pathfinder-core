@@ -1,0 +1,60 @@
+{
+  "name": "Table 15-5: Medium Shield Special Ability",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "name": "arrow catching"
+    },
+    {
+      "weight": 10,
+      "name": "bashing"
+    },
+    {
+      "weight": 5,
+      "name": "blinding"
+    },
+    {
+      "weight": 15,
+      "name": "fortification, light"
+    },
+    {
+      "weight": 10,
+      "name": "arrow deflection"
+    },
+    {
+      "weight": 7,
+      "name": "animated"
+    },
+    {
+      "weight": 2,
+      "name": "spell resistance 13"
+    },
+    {
+      "weight": 20,
+      "name": "energy resistance",
+      "subtable": "energy-type"
+    },
+    {
+      "weight": 6,
+      "name": "ghost touch"
+    },
+    {
+      "weight": 10,
+      "name": "fortification, moderate"
+    },
+    {
+      "weight": 3,
+      "name": "spell resistance 15"
+    },
+    {
+      "weight": 1,
+      "name": "wild"
+    },
+    {
+      "weight": 1,
+      "name": "roll twice"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Table 15-26: Intelligent Item Dedicated Powers",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 20,
+      "name": "Item can detect any special purpose foe within 60 feet"
+    },
+    {
+      "weight": 15,
+      "name": "Item can use a 4th-level spell at will",
+      "subtable": "spells-4"
+    },
+    {
+      "weight": 15,
+      "name": "Wielder get a +2 luck bonus on attacks, saves and checks"
+    },
+    {
+      "weight": 15,
+      "name": "Item can use a 5th-level spell at will",
+      "subtable": "spells-5"
+    },
+    {
+      "weight": 15,
+      "name": "Item can use a 6th-level spell at will",
+      "subtable": "spells-6"
+    },
+    {
+      "weight": 15,
+      "name": "Item can use a 7th-level spell at will",
+      "subtable": "spells-7"
+    },
+    {
+      "weight": 5,
+      "name": "Item can cast true resurrection on wielder, once per month"
+    }
+  ]
+}

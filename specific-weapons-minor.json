@@ -1,0 +1,40 @@
+{
+  "name": "Table 15-11: Minor Specific Weapons",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 15,
+      "name": "Sleep arrow"
+    },
+    {
+      "weight": 10,
+      "name": "Screaming bolt"
+    },
+    {
+      "weight": 20,
+      "name": "Silver dagger, masterwork"
+    },
+    {
+      "weight": 20,
+      "name": "Cold iron longsword, masterwork"
+    },
+    {
+      "weight": 10,
+      "name": "Javelin of lightning"
+    },
+    {
+      "weight": 5,
+      "name": "Slaying arrow",
+      "subtable": "designated-type"
+    },
+    {
+      "weight": 10,
+      "name": "Adamantine dagger"
+    },
+    {
+      "weight": 10,
+      "name": "Adamantine battleaxe"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Armor Type",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 3,
+      "name": "padded"
+    },
+    {
+      "weight": 12,
+      "name": "leather"
+    },
+    {
+      "weight": 10,
+      "name": "studded leather"
+    },
+    {
+      "weight": 6,
+      "name": "chain shirt"
+    },
+    {
+      "weight": 6,
+      "name": "hide"
+    },
+    {
+      "weight": 12,
+      "name": "scale mail"
+    },
+    {
+      "weight": 18,
+      "name": "chainmail"
+    },
+    {
+      "weight": 6,
+      "name": "breastplate"
+    },
+    {
+      "weight": 9,
+      "name": "splint mail"
+    },
+    {
+      "weight": 9,
+      "name": "banded mail"
+    },
+    {
+      "weight": 6,
+      "name": "half-plate"
+    },
+    {
+      "weight": 3,
+      "name": "full plate"
+    }
+  ]
+}

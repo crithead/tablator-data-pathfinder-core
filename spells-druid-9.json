@@ -1,0 +1,17 @@
+{
+  "name": "Druid Spells, Level 9",
+  "type": "items",
+  "total-weight": 10,
+  "rows": [
+    { "name": "Antipathy" },
+    { "name": "Cure Critical Wounds, Mass" },
+    { "name": "Elemental Swarm" },
+    { "name": "Foresight" },
+    { "name": "Regenerate" },
+    { "name": "Shambler" },
+    { "name": "Shapechange" },
+    { "name": "Storm of Vengeance" },
+    { "name": "Summon Nature's Ally VIII" },
+    { "name": "Sympathy" }
+  ]
+}

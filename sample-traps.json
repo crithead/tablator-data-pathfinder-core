@@ -1,0 +1,139 @@
+{
+  "name": "Sample Traps",
+  "type": "items",
+  "total-weight": 33,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "arrow trap"
+    },
+    {
+      "weight": 1,
+      "name": "pit trap"
+    },
+    {
+      "weight": 1,
+      "name": "poisoned dart trap"
+    },
+    {
+      "weight": 1,
+      "name": "swinging axe trap"
+    },
+    {
+      "weight": 1,
+      "name": "burning hands trap"
+    },
+    {
+      "weight": 1,
+      "name": "javelin trap"
+    },
+    {
+      "weight": 1,
+      "name": "spiked pit trap"
+    },
+    {
+      "weight": 1,
+      "name": "acid arrow trap"
+    },
+    {
+      "weight": 1,
+      "name": "camouflaged pit trap"
+    },
+    {
+      "weight": 1,
+      "name": "electricity arc trap"
+    },
+    {
+      "weight": 1,
+      "name": "wall scythe trap"
+    },
+    {
+      "weight": 1,
+      "name": "falling block trap"
+    },
+    {
+      "weight": 1,
+      "name": "fireball trap"
+    },
+    {
+      "weight": 1,
+      "name": "flame strike trap"
+    },
+    {
+      "weight": 1,
+      "name": "wyvern arrow trap"
+    },
+    {
+      "weight": 1,
+      "name": "frost fangs trap"
+    },
+    {
+      "weight": 1,
+      "name": "summon monster vi trap"
+    },
+    {
+      "weight": 1,
+      "name": "camouflaged spiked pit trap"
+    },
+    {
+      "weight": 1,
+      "name": "insanity mist trap"
+    },
+    {
+      "weight": 1,
+      "name": "hail of arrows trap"
+    },
+    {
+      "weight": 1,
+      "name": "shocking floor trap"
+    },
+    {
+      "weight": 1,
+      "name": "energy drain trap"
+    },
+    {
+      "weight": 1,
+      "name": "chamber of blades trap"
+    },
+    {
+      "weight": 1,
+      "name": "cone of cold trap"
+    },
+    {
+      "weight": 1,
+      "name": "poisoned pit trap"
+    },
+    {
+      "weight": 1,
+      "name": "maximized fileball trap"
+    },
+    {
+      "weight": 1,
+      "name": "harm trap"
+    },
+    {
+      "weight": 1,
+      "name": "crushing stone trap"
+    },
+    {
+      "weight": 1,
+      "name": "empowered disintegrate trap"
+    },
+    {
+      "weight": 1,
+      "name": "lightning bolt gallery trap"
+    },
+    {
+      "weight": 1,
+      "name": "deadly spear trap"
+    },
+    {
+      "weight": 1,
+      "name": "meteor swarm trap"
+    },
+    {
+      "weight": 1,
+      "name": "destruction trap"
+    }
+  ]
+}

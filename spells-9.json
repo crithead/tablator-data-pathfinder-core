@@ -1,0 +1,19 @@
+{
+  "name": "Level 9 Spells",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 30,
+      "table": "spells-cleric-9"
+    },
+    {
+      "weight": 10,
+      "table": "spells-druid-9"
+    },
+    {
+      "weight": 60,
+      "table": "spells-wizard-9"
+    }
+  ]
+}

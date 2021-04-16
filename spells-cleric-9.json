@@ -1,0 +1,51 @@
+{
+  "name": "Cleric Spells, Level 9",
+  "type": "items",
+  "total-weight": 11,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Astral Projection"
+    },
+    {
+      "weight": 1,
+      "name": "Energy Drain"
+    },
+    {
+      "weight": 1,
+      "name": "Etherealness"
+    },
+    {
+      "weight": 1,
+      "name": "Gate"
+    },
+    {
+      "weight": 1,
+      "name": "Heal, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Implosion"
+    },
+    {
+      "weight": 1,
+      "name": "Miracle"
+    },
+    {
+      "weight": 1,
+      "name": "Soul Bind"
+    },
+    {
+      "weight": 1,
+      "name": "Storm of Vengeance"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster IX"
+    },
+    {
+      "weight": 1,
+      "name": "True Resurrection"
+    }
+  ]
+}

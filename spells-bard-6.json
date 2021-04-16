@@ -1,0 +1,87 @@
+{
+  "name": "Bard Spells, Level 6",
+  "type": "items",
+  "total-weight": 20,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Analyze Dweomer"
+    },
+    {
+      "weight": 1,
+      "name": "Animate Objects"
+    },
+    {
+      "weight": 1,
+      "name": "Cat's Grace, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Charm Monster, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Moderate Wounds, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Eagle's Splendor, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Eyebite"
+    },
+    {
+      "weight": 1,
+      "name": "Find the Path"
+    },
+    {
+      "weight": 1,
+      "name": "Fox's Cunning, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Geas/Quest"
+    },
+    {
+      "weight": 1,
+      "name": "Heroes' Feast"
+    },
+    {
+      "weight": 1,
+      "name": "Irresistible Dance"
+    },
+    {
+      "weight": 1,
+      "name": "Permanent Image"
+    },
+    {
+      "weight": 1,
+      "name": "Programmed Image"
+    },
+    {
+      "weight": 1,
+      "name": "Project Image"
+    },
+    {
+      "weight": 1,
+      "name": "Scrying, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Shout, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster VI"
+    },
+    {
+      "weight": 1,
+      "name": "Sympathetic Vibration"
+    },
+    {
+      "weight": 1,
+      "name": "Veil"
+    }
+  ]
+}

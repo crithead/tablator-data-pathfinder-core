@@ -1,0 +1,29 @@
+{
+  "name": "Table 10-2: Summon Nature's Ally IV",
+  "type": "items",
+  "total-weight": 19,
+  "rows": [
+    { "name": "Ant, giant (drone)" },
+    { "name": "Bison (herd animal)" },
+    { "name": "Deienonychus (dinosaur)" },
+    { "name": "Dire ape" },
+    { "name": "Dire boar" },
+    { "name": "Dire wolf" },
+    { "name": "Elemental (medium)" },
+    { "name": "Giant scorpion" },
+    { "name": "Giant stag beetle" },
+    { "name": "Giant wasp" },
+    { "name": "Griffon" },
+    { "name": "Grizzly Bear" },
+    { "name": "Lion" },
+    {
+      "name": "Mephit",
+      "subtable": "mephit-type"
+    },
+    { "name": "Owlbear" },
+    { "name": "Pteranodon (dinosaur)" },
+    { "name": "Rhinoceros" },
+    { "name": "Satyr" },
+    { "name": "Tiger" }
+  ]
+}

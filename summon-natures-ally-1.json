@@ -1,0 +1,18 @@
+{
+  "name": "Table 10-2: Summon Nature's Ally I",
+  "type": "items",
+  "total-weight": 11,
+  "rows": [
+    { "name": "Dire rat" },
+    { "name": "Dolphin" },
+    { "name": "Dog" },
+    { "name": "Eagle" },
+    { "name": "Frog, poison" },
+    { "name": "Giant centipede" },
+    { "name": "Fire beetle" },
+    { "name": "Mite (gremlin)" },
+    { "name": "Pony (horse)" },
+    { "name": "Stirge" },
+    { "name": "Viper (snake)" }
+  ]
+}

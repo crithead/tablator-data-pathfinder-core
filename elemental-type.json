@@ -1,0 +1,23 @@
+{
+  "name": "Elemental Type",
+  "type": "items",
+  "total-weight": 4,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "air"
+    },
+    {
+      "weight": 1,
+      "name": "earth"
+    },
+    {
+      "weight": 1,
+      "name": "fire"
+    },
+    {
+      "weight": 1,
+      "name": "water"
+    }
+  ]
+}

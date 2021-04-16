@@ -1,0 +1,31 @@
+{
+  "name": "Table 13-9: Random Weather - Temperate Climate",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 70,
+      "name": "normal for season"
+    },
+    {
+      "weight": 5,
+      "name": "heat wave"
+    },
+    {
+      "weight": 5,
+      "name": "cold snap"
+    },
+    {
+      "weight": 10,
+      "name": "precipitation (normal for season)"
+    },
+    {
+      "weight": 9,
+      "name": "thunderstorm, snowstorm"
+    },
+    {
+      "weight": 1,
+      "name": "wind storm, blizzard, hurricane, tornado"
+    }
+  ]
+}

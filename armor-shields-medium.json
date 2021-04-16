@@ -1,0 +1,62 @@
+{
+  "name": "Table 15-3: Medium Armor & Shields",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "shield +1",
+      "subtable": "shield-type"
+    },
+    {
+      "weight": 5,
+      "name": "armor +1",
+      "subtable": "armor-type"
+    },
+    {
+      "weight": 10,
+      "name": "shield +2",
+      "subtable": "shield-type"
+    },
+    {
+      "weight": 10,
+      "name": "armor +2",
+      "subtable": "armor-type"
+    },
+    {
+      "weight": 10,
+      "name": "shield +3",
+      "subtable": "shield-type"
+    },
+    {
+      "weight": 10,
+      "name": "armor +3",
+      "subtable": "armor-type"
+    },
+    {
+      "weight":5,
+      "name": "shield +4",
+      "subtable": "shield-type"
+    },
+    {
+      "weight": 2,
+      "name": "armor +4",
+      "subtable": "armor-type"
+    },
+
+    {
+      "weight": 3,
+      "name": "specific armor",
+      "subtable": "armor-specific-medium"
+    },
+    {
+      "weight": 3,
+      "name": "specific shield",
+      "subtable": "shield-specific-medium"
+    },
+    {
+      "weight": 37,
+      "name": "special ability & roll again"
+    }
+  ]
+}

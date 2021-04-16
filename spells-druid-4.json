@@ -1,0 +1,24 @@
+{
+  "name": "Druid Spells, Level 4",
+  "type": "items",
+  "total-weight": 17,
+  "rows": [
+    { "name": "Air Walk" },
+    { "name": "Antiplant Shell" },
+    { "name": "Blight" },
+    { "name": "Command Plants" },
+    { "name": "Control Weather" },
+    { "name": "Cure Serious Wounds" },
+    { "name": "Dispel magic" },
+    { "name": "Flame Strike" },
+    { "name": "Freedom of Movement" },
+    { "name": "Giant Vermin" },
+    { "name": "Ice Storm" },
+    { "name": "Reincarnate" },
+    { "name": "Repel Vermin" },
+    { "name": "Rusting Grasp" },
+    { "name": "Scrying" },
+    { "name": "Spike Stones" },
+    { "name": "Summon Nature's Ally IV" }
+  ]
+}

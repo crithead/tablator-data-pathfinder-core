@@ -1,0 +1,17 @@
+{
+  "name": "Table 15-12: Major Potions",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 20,
+      "name": "spell level: 2nd, caster level: 3rd",
+      "subtable": "spells-2"
+    },
+    {
+      "weight": 80,
+      "name": "spell level: 3rd, caster level: 5th",
+      "subtable": "spells-3"
+    }
+  ]
+}

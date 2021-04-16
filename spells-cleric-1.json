@@ -1,0 +1,131 @@
+{
+  "name": "Cleric Spells, Level 1",
+  "type": "items",
+  "total-weight": 31,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Bane"
+    },
+    {
+      "weight": 1,
+      "name": "Bless"
+    },
+    {
+      "weight": 1,
+      "name": "Bless Water"
+    },
+    {
+      "weight": 1,
+      "name": "Cause Fear"
+    },
+    {
+      "weight": 1,
+      "name": "Command"
+    },
+    {
+      "weight": 1,
+      "name": "Comprehend Languages"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Light Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Curse Water"
+    },
+    {
+      "weight": 1,
+      "name": "Deathwatch"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Chaos"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Evil"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Good"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Law"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Undead"
+    },
+    {
+      "weight": 1,
+      "name": "Divine Favor"
+    },
+    {
+      "weight": 1,
+      "name": "Doom"
+    },
+    {
+      "weight": 1,
+      "name": "Endure Elements"
+    },
+    {
+      "weight": 1,
+      "name": "Entropic Shield"
+    },
+    {
+      "weight": 1,
+      "name": "Hide from Undead"
+    },
+    {
+      "weight": 1,
+      "name": "Inflict Light Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Stone"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Weapon"
+    },
+    {
+      "weight": 1,
+      "name": "Obscuring Mist"
+    },
+    {
+      "weight": 1,
+      "name": "Protection from Chaos"
+    },
+    {
+      "weight": 1,
+      "name": "Protection from Evil"
+    },
+    {
+      "weight": 1,
+      "name": "Protection from Good"
+    },
+    {
+      "weight": 1,
+      "name": "Protection from Law"
+    },
+    {
+      "weight": 1,
+      "name": "Remove Fear"
+    },
+    {
+      "weight": 1,
+      "name": "Sanctuary"
+    },
+    {
+      "weight": 1,
+      "name": "Shield of Faith"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster I"
+    }
+  ]
+}

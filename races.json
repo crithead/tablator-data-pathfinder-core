@@ -1,0 +1,28 @@
+{
+  "name": "Races",
+  "type": "items",
+  "total-weight": 7,
+  "rows": [
+    {
+      "name": "Dwarf"
+    },
+    {
+      "name": "Elf"
+    },
+    {
+      "name": "Gnome"
+    },
+    {
+      "name": "Half-elf"
+    },
+    {
+      "name": "Half-orc"
+    },
+    {
+      "name": "Halfling"
+    },
+    {
+      "name": "Human"
+    }
+  ]
+}

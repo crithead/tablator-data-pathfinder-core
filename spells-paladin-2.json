@@ -1,0 +1,43 @@
+{
+  "name": "Paladin Spells, Level 2",
+  "type": "items",
+  "total-weight": 9,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Bull's Strength"
+    },
+    {
+      "weight": 1,
+      "name": "Delay Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Eagle's Splendor"
+    },
+    {
+      "weight": 1,
+      "name": "Owl's Wisdom"
+    },
+    {
+      "weight": 1,
+      "name": "Remove Paralysis"
+    },
+    {
+      "weight": 1,
+      "name": "Resist Energy"
+    },
+    {
+      "weight": 1,
+      "name": "Shield Other"
+    },
+    {
+      "weight": 1,
+      "name": "Undetectable Alignment"
+    },
+    {
+      "weight": 1,
+      "name": "Zone of Truth"
+    }
+  ]
+}

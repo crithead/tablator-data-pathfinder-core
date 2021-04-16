@@ -1,0 +1,80 @@
+{
+  "name": "Table 15-10: Major Ranged Weapon Special Abilities",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 4,
+      "name": "Bane",
+      "subtable": "designated-type"
+    },
+    {
+      "weight": 4,
+      "name": "Distance"
+    },
+    {
+      "weight": 4,
+      "name": "Flaming"
+    },
+    {
+      "weight": 4,
+      "name": "Frost"
+    },
+    {
+      "weight": 5,
+      "name": "Returning"
+    },
+    {
+      "weight": 4,
+      "name": "Shock"
+    },
+    {
+      "weight": 2,
+      "name": "Seeking"
+    },
+    {
+      "weight": 2,
+      "name": "Thundering"
+    },
+    {
+      "weight": 5,
+      "name": "Anarchic"
+    },
+    {
+      "weight": 5,
+      "name": "Axiomatic"
+    },
+    {
+      "weight": 10,
+      "name": "Flaming burst"
+    },
+    {
+      "weight": 5,
+      "name": "Holy"
+    },
+    {
+      "weight":10,
+      "name": "Icy burst"
+    },
+    {
+      "weight":10,
+      "name": "Shocking burst"
+    },
+    {
+      "weight": 5,
+      "name": "Unholy"
+    },
+    {
+      "weight": 5,
+      "name": "Speed"
+    },
+    {
+      "weight": 6,
+      "name": "Brilliant energy"
+    },
+    {
+      "weight": 10,
+      "name": "Roll again twice"
+    }
+  ]
+}

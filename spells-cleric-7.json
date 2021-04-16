@@ -1,0 +1,79 @@
+{
+  "name": "Cleric Spells, Level 7",
+  "type": "items",
+  "total-weight": 18,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Blasphemy"
+    },
+    {
+      "weight": 1,
+      "name": "Control Weather"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Serious Wounds, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Destruction"
+    },
+    {
+      "weight": 1,
+      "name": "Dictum"
+    },
+    {
+      "weight": 1,
+      "name": "Ethereal Jaunt"
+    },
+    {
+      "weight": 1,
+      "name": "Holy Word"
+    },
+    {
+      "weight": 1,
+      "name": "Inflict Serious Wounds, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Refuge"
+    },
+    {
+      "weight": 1,
+      "name": "Regenerate"
+    },
+    {
+      "weight": 1,
+      "name": "Repulsion"
+    },
+    {
+      "weight": 1,
+      "name": "Restoration, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Resurrection"
+    },
+    {
+      "weight": 1,
+      "name": "Scrying, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster VII"
+    },
+    {
+      "weight": 1,
+      "name": "Symbol of Stunning"
+    },
+    {
+      "weight": 1,
+      "name": "Symbol of Weakness"
+    },
+    {
+      "weight": 1,
+      "name": "Word of Chaos"
+    }
+  ]
+}

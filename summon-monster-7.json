@@ -1,0 +1,52 @@
+{
+  "name": "Table 10-1: Summon Monster VII",
+  "type": "items",
+  "total-weight": 11,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Bebilith"
+    },
+    {
+      "weight": 1,
+      "name": "Bone devil"
+    },
+    {
+      "weight": 1,
+      "name": "Brachiosaurus (dinosaur)"
+    },
+    {
+      "weight": 1,
+      "name": "Dire crocodile"
+    },
+    {
+      "weight": 1,
+      "name": "Dire shark"
+    },
+    {
+      "weight": 1,
+      "name": "Elemental, greater",
+      "subtable": "elemental-type"
+    },
+    {
+      "weight": 1,
+      "name": "Giant squid"
+    },
+    {
+      "weight": 1,
+      "name": "Mastodon (elephant)"
+    },
+    {
+      "weight": 1,
+      "name": "Roc"
+    },
+    {
+      "weight": 1,
+      "name": "Tyrannosaurus (dinosaur)"
+    },
+    {
+      "weight": 1,
+      "name": "Vrock (demon)"
+    }
+  ]
+}

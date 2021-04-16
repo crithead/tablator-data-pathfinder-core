@@ -1,0 +1,29 @@
+{
+  "name": "Druid Spells, Level 3",
+  "type": "items",
+  "total-weight": 22,
+  "rows": [
+    { "name": "Call Lightning" },
+    { "name": "Contagion" },
+    { "name": "Cure Moderate Wounds" },
+    { "name": "Daylight" },
+    { "name": "Diminish Plants" },
+    { "name": "Dominate Animal" },
+    { "name": "Magic Fang, Greater" },
+    { "name": "Meld into Stone" },
+    { "name": "Neutralize Poison" },
+    { "name": "Plant Growth" },
+    { "name": "Poison" },
+    { "name": "Protection from Energy" },
+    { "name": "Quench" },
+    { "name": "Remove Disease" },
+    { "name": "Sleet Storm" },
+    { "name": "Snare" },
+    { "name": "Speak with Plants" },
+    { "name": "Spike Growth" },
+    { "name": "Stone Shape" },
+    { "name": "Summon Nature's Ally III" },
+    { "name": "Water Breathing" },
+    { "name": "Wind Wall" }
+  ]
+}

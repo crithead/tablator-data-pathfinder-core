@@ -1,0 +1,76 @@
+{
+  "name": "Table 15-10: Medium Ranged Weapon Special Abilities",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 8,
+      "name": "Bane",
+      "subtable": "designated-type"
+    },
+    {
+      "weight": 8,
+      "name": "Distance"
+    },
+    {
+      "weight": 12,
+      "name": "Flaming"
+    },
+    {
+      "weight": 12,
+      "name": "Frost"
+    },
+    {
+      "weight": 2,
+      "name": "Merciful"
+    },
+    {
+      "weight": 5,
+      "name": "Returning"
+    },
+    {
+      "weight": 12,
+      "name": "Shock"
+    },
+    {
+      "weight": 5,
+      "name": "Seeking"
+    },
+    {
+      "weight": 4,
+      "name": "Thundering"
+    },
+    {
+      "weight": 3,
+      "name": "Anarchic"
+    },
+    {
+      "weight": 3,
+      "name": "Axiomatic"
+    },
+    {
+      "weight": 5,
+      "name": "Flaming burst"
+    },
+    {
+      "weight": 3,
+      "name": "Holy"
+    },
+    {
+      "weight":5,
+      "name": "Icy burst"
+    },
+    {
+      "weight":5,
+      "name": "Shocking burst"
+    },
+    {
+      "weight": 3,
+      "name": "Unholy"
+    },
+    {
+      "weight": 5,
+      "name": "Roll again twice"
+    }
+  ]
+}

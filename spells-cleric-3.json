@@ -1,0 +1,147 @@
+{
+  "name": "Cleric Spells, Level 3",
+  "type": "items",
+  "total-weight": 35,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Animate Dead"
+    },
+    {
+      "weight": 1,
+      "name": "Bestow Curse"
+    },
+    {
+      "weight": 1,
+      "name": "Blindness/Deafness"
+    },
+    {
+      "weight": 1,
+      "name": "Contagion"
+    },
+    {
+      "weight": 1,
+      "name": "Continual Flame"
+    },
+    {
+      "weight": 1,
+      "name": "Create Food and Water"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Serious Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Daylight"
+    },
+    {
+      "weight": 1,
+      "name": "Deeper Darkness"
+    },
+    {
+      "weight": 1,
+      "name": "Dispel Magic"
+    },
+    {
+      "weight": 1,
+      "name": "Glyph of Warding"
+    },
+    {
+      "weight": 1,
+      "name": "Helping Hand"
+    },
+    {
+      "weight": 1,
+      "name": "Helping hand"
+    },
+    {
+      "weight": 1,
+      "name": "Inflict Serious Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Invisibility Purge"
+    },
+    {
+      "weight": 1,
+      "name": "Locate Object"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Circle Against Chaos"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Circle Against Evil"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Circle Against Good"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Circle Against Law"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Vestment"
+    },
+    {
+      "weight": 1,
+      "name": "Meld into Stone"
+    },
+    {
+      "weight": 1,
+      "name": "Obscure Object"
+    },
+    {
+      "weight": 1,
+      "name": "Prayer"
+    },
+    {
+      "weight": 1,
+      "name": "Protection from Energy"
+    },
+    {
+      "weight": 1,
+      "name": "Remove Blindness/Deafness"
+    },
+    {
+      "weight": 1,
+      "name": "Remove Curse"
+    },
+    {
+      "weight": 1,
+      "name": "Remove Disease"
+    },
+    {
+      "weight": 1,
+      "name": "Searing Light"
+    },
+    {
+      "weight": 1,
+      "name": "Speak with Dead"
+    },
+    {
+      "weight": 1,
+      "name": "Stone Shape"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster III"
+    },
+    {
+      "weight": 1,
+      "name": "Water Breathing"
+    },
+    {
+      "weight": 1,
+      "name": "Water Walk"
+    },
+    {
+      "weight": 1,
+      "name": "Wind Wall"
+    }
+  ]
+}

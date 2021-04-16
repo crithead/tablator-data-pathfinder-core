@@ -1,0 +1,86 @@
+{
+  "name": "Table 15-5: Minor Shield Special Ability",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "arrow catching"
+    },
+    {
+      "weight": 3,
+      "name": "bashing"
+    },
+    {
+      "weight":2,
+      "name": "blinding"
+    },
+    {
+      "weight": 5,
+      "name": "fortification, light"
+    },
+    {
+      "weight": 5,
+      "name": "arrow deflection"
+    },
+    {
+      "weight": 5,
+      "name": "animated"
+    },
+    {
+      "weight": 16,
+      "name": "energy resistance",
+      "subtable": "energy-type"
+    },
+    {
+      "weight": 5,
+      "name": "ghost touch"
+    },
+    {
+      "weight": 10,
+      "name": "fortification, moderate"
+    },
+    {
+      "weight": 2,
+      "name": "spell resistance 15"
+    },
+    {
+      "weight": 1,
+      "name": "wild"
+    },
+    {
+      "weight": 25,
+      "name": "energy resistance, improved",
+      "subtable": "energy-type"
+    },
+    {
+      "weight": 2,
+      "name": "spell resistance 17"
+    },
+    {
+      "weight": 1,
+      "name": "undead controlling"
+    },
+    {
+      "weight": 4,
+      "name": "fortification, heavy"
+    },
+    {
+      "weight": 2,
+      "name": "reflecting"
+    },
+    {
+      "weight": 1,
+      "name": "spell resistance 19"
+    },
+    {
+      "weight": 5,
+      "name": "energy resistance, greater",
+      "subtable": "energy-type"
+    },
+    {
+      "weight": 1,
+      "name": "roll twice"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Drawback - Grows or Shrinks",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 50,
+      "name": "shrinks"
+    },
+    {
+      "weight": 50,
+      "name": "grows"
+    }
+  ]
+}

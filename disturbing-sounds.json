@@ -1,0 +1,63 @@
+{
+  "name": "Disturbing Sounds",
+  "type": "items",
+  "total-weight": 14,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "moaning"
+    },
+    {
+      "weight": 1,
+      "name": "weeping"
+    },
+    {
+      "weight": 1,
+      "name": "screaming"
+    },
+    {
+      "weight": 1,
+      "name": "cursing"
+    },
+    {
+      "weight": 1,
+      "name": "insults"
+    },
+    {
+      "weight": 1,
+      "name": "creaking"
+    },
+    {
+      "weight": 1,
+      "name": "howling"
+    },
+    {
+      "weight": 1,
+      "name": "groaning"
+    },
+    {
+      "weight": 1,
+      "name": "squeaking"
+    },
+    {
+      "weight": 1,
+      "name": "squealing"
+    },
+    {
+      "weight": 1,
+      "name": "scraping"
+    },
+    {
+      "weight": 1,
+      "name": "grinding"
+    },
+    {
+      "weight": 1,
+      "name": "buzzing"
+    },
+    {
+      "weight": 1,
+      "name": "ringing"
+    }
+  ]
+}

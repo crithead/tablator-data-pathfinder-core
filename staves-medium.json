@@ -1,0 +1,39 @@
+{
+  "name": "Table 15-16: Medium Staves",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 15,
+      "name": "staff of charming"
+    },
+    {
+      "weight": 15,
+      "name": "staff of fire"
+    },
+    {
+      "weight": 10,
+      "name": "staff of swarming insects"
+    },
+    {
+      "weight": 15,
+      "name": "staff of size alteration"
+    },
+    {
+      "weight": 20,
+      "name": "staff of healing"
+    },
+    {
+      "weight": 15,
+      "name": "staff of frost"
+    },
+    {
+      "weight": 5,
+      "name": "staff of illumination"
+    },
+    {
+      "weight": 5,
+      "name": "staff of defense"
+    }
+  ]
+}

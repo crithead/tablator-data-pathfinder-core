@@ -1,0 +1,68 @@
+{
+  "name": "Table 15-9: Minor Melee Weapon Special Abilities",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "name": "Bane",
+      "subtable": "designated-type"
+    },
+    {
+      "weight": 7,
+      "name": "Defending"
+    },
+    {
+      "weight": 10,
+      "name": "Flaming"
+    },
+    {
+      "weight": 10,
+      "name": "Frost"
+    },
+    {
+      "weight": 10,
+      "name": "Shock"
+    },
+    {
+      "weight": 9,
+      "name": "Ghost touch"
+    },
+    {
+      "weight": 11,
+      "name": "Keen"
+    },
+    {
+      "weight": 4,
+      "name": "Ki-focus"
+    },
+    {
+      "weight": 4,
+      "name": "Merciful"
+    },
+    {
+      "weight": 7,
+      "name": "Mighty cleaving"
+    },
+    {
+      "weight": 5,
+      "name": "Spell storing"
+    },
+    {
+      "weight": 4,
+      "name": "Throwing"
+    },
+    {
+      "weight": 4,
+      "name": "Thundering"
+    },
+    {
+      "weight": 4,
+      "name": "Vicious"
+    },
+    {
+      "weight": 1,
+      "name": "Roll again twice"
+    }
+  ]
+}

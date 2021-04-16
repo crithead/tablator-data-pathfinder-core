@@ -1,0 +1,56 @@
+{
+  "name": "Table 10-1: Summon Monster VI",
+  "type": "items",
+  "total-weight": 12,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Dire bear"
+    },
+    {
+      "weight": 1,
+      "name": "Dire tiger"
+    },
+    {
+      "weight": 1,
+      "name": "Elasmosaurus (dinosaur)"
+    },
+    {
+      "weight": 1,
+      "name": "Elemental, huge",
+      "subtable": "elemental-type"
+    },
+    {
+      "weight": 1,
+      "name": "Elephant"
+    },
+    {
+      "weight": 1,
+      "name": "Erinyes (devil)"
+    },
+    {
+      "weight": 1,
+      "name": "Giant octopus"
+    },
+    {
+      "weight": 1,
+      "name": "Invisible stalker"
+    },
+    {
+      "weight": 1,
+      "name": "Lillend azata"
+    },
+    {
+      "weight": 1,
+      "name": "Shadow Demon"
+    },
+    {
+      "weight": 1,
+      "name": "Succubus (demon)"
+    },
+    {
+      "weight": 1,
+      "name": "Triceratops (dinosaur)"
+    }
+  ]
+}

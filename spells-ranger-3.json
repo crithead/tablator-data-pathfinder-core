@@ -1,0 +1,59 @@
+{
+  "name": "Ranger Spells, Level 3",
+  "type": "items",
+  "total-weight": 13,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Command Plants"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Moderate Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Darkvision"
+    },
+    {
+      "weight": 1,
+      "name": "Diminish Plants"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Fang, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Neutralize Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Plant Growth"
+    },
+    {
+      "weight": 1,
+      "name": "Reduce Animal"
+    },
+    {
+      "weight": 1,
+      "name": "Remove Disease"
+    },
+    {
+      "weight": 1,
+      "name": "Repel Vermin"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Nature's Ally III"
+    },
+    {
+      "weight": 1,
+      "name": "Tree Share"
+    },
+    {
+      "weight": 1,
+      "name": "Water Walk"
+    }
+  ]
+}

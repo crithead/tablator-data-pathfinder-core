@@ -1,0 +1,26 @@
+{
+  "name": "Druid Spells, Level 5",
+  "type": "items",
+  "total-weight": 19,
+  "rows": [
+    { "name": "Animal Growth" },
+    { "name": "Atonement" },
+    { "name": "Awaken" },
+    { "name": "Baleful Polymorph" },
+    { "name": "Call Lightning Storm" },
+    { "name": "Commune with Nature" },
+    { "name": "Control Winds" },
+    { "name": "Cure Critical Wounds" },
+    { "name": "Death Ward" },
+    { "name": "Hallow" },
+    { "name": "Insect Plague" },
+    { "name": "Stoneskin" },
+    { "name": "Summon Nature's Ally V" },
+    { "name": "Transmute Mud to Rock" },
+    { "name": "Transmute Rock to Mud" },
+    { "name": "Tree Stride" },
+    { "name": "Unhallow" },
+    { "name": "Wall fo Fire" },
+    { "name": "Wall of Thorns" }
+  ]
+}

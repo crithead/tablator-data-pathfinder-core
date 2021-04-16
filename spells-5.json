@@ -1,0 +1,23 @@
+{
+  "name": "Level 5 Spells",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "table": "spells-bard-5"
+    },
+    {
+      "weight": 30,
+      "table": "spells-cleric-5"
+    },
+    {
+      "weight": 10,
+      "table": "spells-druid-5"
+    },
+    {
+      "weight": 50,
+      "table": "spells-wizard-5"
+    }
+  ]
+}

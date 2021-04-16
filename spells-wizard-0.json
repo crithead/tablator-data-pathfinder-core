@@ -1,0 +1,87 @@
+{
+  "name": "Wizard/Sorcerer Spells, Level 0",
+  "type": "items",
+  "total-weight": 20,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Acid Splash"
+    },
+    {
+      "weight": 1,
+      "name": "Arcane Mark"
+    },
+    {
+      "weight": 1,
+      "name": "Bleed"
+    },
+    {
+      "weight": 1,
+      "name": "Dancing Light"
+    },
+    {
+      "weight": 1,
+      "name": "Daze"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Magic"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Disrupt Undead"
+    },
+    {
+      "weight": 1,
+      "name": "Flare"
+    },
+    {
+      "weight": 1,
+      "name": "Ghost Sound"
+    },
+    {
+      "weight": 1,
+      "name": "Light"
+    },
+    {
+      "weight": 1,
+      "name": "Mage Hand"
+    },
+    {
+      "weight": 1,
+      "name": "Mending"
+    },
+    {
+      "weight": 1,
+      "name": "Message"
+    },
+    {
+      "weight": 1,
+      "name": "Open/Close"
+    },
+    {
+      "weight": 1,
+      "name": "Prestidigitation"
+    },
+    {
+      "weight": 1,
+      "name": "Ray of Frost"
+    },
+    {
+      "weight": 1,
+      "name": "Read Magic"
+    },
+    {
+      "weight": 1,
+      "name": "Resistance"
+    },
+    {
+      "weight": 1,
+      "name": "Touch of Fatigue"
+    }
+  ]
+}

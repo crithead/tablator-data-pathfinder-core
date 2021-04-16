@@ -1,0 +1,147 @@
+{
+  "name": "Bard Spells, Level 2",
+  "type": "items",
+  "total-weight": 35,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Alter Self"
+    },
+    {
+      "weight": 1,
+      "name": "Animal Message"
+    },
+    {
+      "weight": 1,
+      "name": "Animal Trance"
+    },
+    {
+      "weight": 1,
+      "name": "Blindness/Deafness"
+    },
+    {
+      "weight": 1,
+      "name": "Blur"
+    },
+    {
+      "weight": 1,
+      "name": "Calm Emotions"
+    },
+    {
+      "weight": 1,
+      "name": "Cat's Grace"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Moderate Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Darkness"
+    },
+    {
+      "weight": 1,
+      "name": "Daze Monster"
+    },
+    {
+      "weight": 1,
+      "name": "Delay Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Thoughts"
+    },
+    {
+      "weight": 1,
+      "name": "Eagle's Splendor"
+    },
+    {
+      "weight": 1,
+      "name": "Enthrall"
+    },
+    {
+      "weight": 1,
+      "name": "Fox's Cunning"
+    },
+    {
+      "weight": 1,
+      "name": "Glitterdust"
+    },
+    {
+      "weight": 1,
+      "name": "Heroism"
+    },
+    {
+      "weight": 1,
+      "name": "Hold Person"
+    },
+    {
+      "weight": 1,
+      "name": "Hypnotic Pattern"
+    },
+    {
+      "weight": 1,
+      "name": "Invisibility"
+    },
+    {
+      "weight": 1,
+      "name": "Locate Object"
+    },
+    {
+      "weight": 1,
+      "name": "Minor Image"
+    },
+    {
+      "weight": 1,
+      "name": "Mirror Image"
+    },
+    {
+      "weight": 1,
+      "name": "Misdirection"
+    },
+    {
+      "weight": 1,
+      "name": "Pyrotechnics"
+    },
+    {
+      "weight": 1,
+      "name": "Rage"
+    },
+    {
+      "weight": 1,
+      "name": "Scare"
+    },
+    {
+      "weight": 1,
+      "name": "Shatter"
+    },
+    {
+      "weight": 1,
+      "name": "Silence"
+    },
+    {
+      "weight": 1,
+      "name": "Sound Burst"
+    },
+    {
+      "weight": 1,
+      "name": "Suggestion"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster II"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Swarm"
+    },
+    {
+      "weight": 1,
+      "name": "Tongues"
+    },
+    {
+      "weight": 1,
+      "name": "Whispering Wind"
+    }
+  ]
+}

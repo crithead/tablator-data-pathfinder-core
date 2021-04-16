@@ -1,0 +1,43 @@
+{
+  "name": "Table 15-2: Random Medium Magic Item Generation",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight":10,
+      "table": "armor-shields-medium"
+    },
+    {
+      "weight": 10,
+      "table": "magic-weapons-medium"
+    },
+    {
+      "weight": 10,
+      "table": "potions-medium"
+    },
+    {
+      "weight": 10,
+      "table": "rings-medium"
+    },
+    {
+      "weight": 10,
+      "table": "rods-medium"
+    },
+    {
+      "weight": 15,
+      "table": "scrolls-medium"
+    },
+    {
+      "weight": 3,
+      "table": "staves-medium"
+    },
+    {
+      "weight": 15,
+      "table": "wands-medium"
+    },
+    {
+      "weight": 17,
+      "table": "wondrous-items-medium"
+    }
+  ]
+}

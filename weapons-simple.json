@@ -1,0 +1,30 @@
+{
+  "name": "Simple Weapons",
+  "type": "items",
+  "total-weight": 23,
+  "rows": [
+    { "name": "Gauntlet" },
+    { "name": "Unarmed strike" },
+    { "name": "Dagger" },
+    { "name": "Punching dagger" },
+    { "name": "Spiked gauntlet" },
+    { "name": "Light mace" },
+    { "name": "Sickle" },
+    { "name": "Club" },
+    { "name": "Heavy mace" },
+    { "name": "Morningstar" },
+    { "name": "Shortspear" },
+    { "name": "Longspear" },
+    { "name": "Quarterstaff" },
+    { "name": "Spear" },
+    { "name": "Blowgun" },
+    { "name": "Blowgun darts" },
+    { "name": "Heavy crossbow" },
+    { "name": "Light crossbow" },
+    { "name": "Bolts" },
+    { "name": "Dart" },
+    { "name": "Javelin" },
+    { "name": "Sling" },
+    { "name": "Bullet" }
+  ]
+}

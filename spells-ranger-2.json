@@ -1,0 +1,55 @@
+{
+  "name": "Ranger Spells, Level 2",
+  "type": "items",
+  "total-weight": 12,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Barkskin"
+    },
+    {
+      "weight": 1,
+      "name": "Bear's Endurance"
+    },
+    {
+      "weight": 1,
+      "name": "Cat's Grace"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Light Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Hold Animal"
+    },
+    {
+      "weight": 1,
+      "name": "Owl's Wisdom"
+    },
+    {
+      "weight": 1,
+      "name": "Protection from Energy"
+    },
+    {
+      "weight": 1,
+      "name": "Snare"
+    },
+    {
+      "weight": 1,
+      "name": "Speak with Plants"
+    },
+    {
+      "weight": 1,
+      "name": "Spike Growth"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Nature's Ally II"
+    },
+    {
+      "weight": 1,
+      "name": "Wind Wall"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Level 7 Spells",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 30,
+      "table": "spells-cleric-7"
+    },
+    {
+      "weight": 10,
+      "table": "spells-druid-7"
+    },
+    {
+      "weight": 60,
+      "table": "spells-wizard-7"
+    }
+  ]
+}

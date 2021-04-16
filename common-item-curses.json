@@ -1,0 +1,37 @@
+{
+  "name": "Table 15-27: Common Item Curses",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 15,
+      "name": "Delusion"
+    },
+    {
+      "weight": 20,
+      "name": "Opposite effect or target"
+    },
+    {
+      "weight": 10,
+      "name": "Intermittent functioning"
+    },
+    {
+      "weight": 15,
+      "name": "Requirement"
+    },
+    {
+      "weight": 15,
+      "name": "Drawback",
+      "subtable": "magic-item-drawbacks"
+    },
+    {
+      "weight": 15,
+      "name": "Completely different effect"
+    },
+    {
+      "weight": 10,
+      "name": "Substitute specific cursed item",
+      "subtable": "specific-cursed-items"
+    }
+  ]
+}

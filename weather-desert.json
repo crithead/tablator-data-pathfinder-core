@@ -1,0 +1,23 @@
+{
+  "name": "Table 13-9: Random Weather - Desert Climate",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 70,
+      "name": "hot, calm"
+    },
+    {
+      "weight": 20,
+      "name": "hot, windy"
+    },
+    {
+      "weight": 9,
+      "name": "dust storm"
+    },
+    {
+      "weight": 1,
+      "name": "downpour"
+    }
+  ]
+}

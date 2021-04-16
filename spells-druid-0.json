@@ -1,0 +1,20 @@
+{
+  "name": "Druid Spells, Level 0",
+  "type": "items",
+  "total-weight": 13,
+  "rows": [
+    { "name": "Create Water" },
+    { "name": "Detect Magic" },
+    { "name": "Detect Poison" },
+    { "name": "Flare" },
+    { "name": "Guidance" },
+    { "name": "Know Direction" },
+    { "name": "Light" },
+    { "name": "Mending" },
+    { "name": "Purify Food and Drink" },
+    { "name": "Read Magic" },
+    { "name": "Resistance" },
+    { "name": "Stabilize" },
+    { "name": "Virtue" }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Table 15-3: Major Armor & Shields",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 8,
+      "name": "shield +3",
+      "subtable": "shield-type"
+    },
+    {
+      "weight": 8,
+      "name": "armor +3",
+      "subtable": "armor-type"
+    },
+    {
+      "weight": 11,
+      "name": "shield +4",
+      "subtable": "shield-type"
+    },
+    {
+      "weight": 11,
+      "name": "armor +4",
+      "subtable": "armor-type"
+    },
+    {
+      "weight": 11,
+      "name": "shield +5",
+      "subtable": "shield-type"
+    },
+    {
+      "weight": 8,
+      "name": "armor +5",
+      "subtable": "armor-type"
+    },
+
+    {
+      "weight": 3,
+      "name": "specific armor",
+      "subtable": "armor-specific-major"
+    },
+    {
+      "weight": 3,
+      "name": "specific shield",
+      "subtable": "shield-specific-major"
+    },
+    {
+      "weight": 37,
+      "name": "special ability & roll again"
+    }
+  ]
+}

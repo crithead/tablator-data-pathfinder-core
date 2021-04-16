@@ -1,0 +1,15 @@
+{
+  "name": "Item Creation Feats",
+  "type": "items",
+  "total-weight": 8,
+  "rows": [
+    { "name": "Brew Potion" },
+    { "name": "Craft Magic Arms and Armor" },
+    { "name": "Craft Rod" },
+    { "name": "Craft Staff" },
+    { "name": "Craft Wand" },
+    { "name": "Craft Wonderous Item" },
+    { "name": "Forge Ring" },
+    { "name": "Scribe Scroll" }
+  ]
+}

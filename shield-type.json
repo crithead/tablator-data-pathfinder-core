@@ -1,0 +1,31 @@
+{
+  "name": "Shield Type",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "name": "buckler"
+    },
+    {
+      "weight": 10,
+      "name": "light wooden shield"
+    },
+    {
+      "weight": 20,
+      "name": "light steel shield"
+    },
+    {
+      "weight": 10,
+      "name": "heavy wooden shield"
+    },
+    {
+      "weight": 40,
+      "name": "heavy steel shield"
+    },
+    {
+      "weight": 10,
+      "name": "tower shield"
+    }
+  ]
+}

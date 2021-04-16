@@ -1,0 +1,27 @@
+{
+  "name": "Table 3–6: Deities of the Pathfinder Chronicles",
+  "type": "items",
+  "total-weight": 20,
+  "rows": [
+    { "name": "Erastil" },
+    { "name": "Iomedae" },
+    { "name": "Torag" },
+    { "name": "Sarenrae" },
+    { "name": "Shelyn" },
+    { "name": "Desna" },
+    { "name": "Cayden Cailean" },
+    { "name": "Abadar" },
+    { "name": "Irori" },
+    { "name": "Gozreh" },
+    { "name": "Pharasma" },
+    { "name": "Nethys" },
+    { "name": "Gorum" },
+    { "name": "Calistria" },
+    { "name": "Asmodeus" },
+    { "name": "Zon-Kuthon" },
+    { "name": "Urgathoa" },
+    { "name": "Norgorber" },
+    { "name": "Lamashtu" },
+    { "name": "Rovagug" }
+  ]
+}

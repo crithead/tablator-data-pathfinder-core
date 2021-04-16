@@ -1,0 +1,75 @@
+{
+  "name": "Cleric Spells, Level 8",
+  "type": "items",
+  "total-weight": 17,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Antimagic Field"
+    },
+    {
+      "weight": 1,
+      "name": "Cloak of Chaos"
+    },
+    {
+      "weight": 1,
+      "name": "Create Greater Undead"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Critical Wounds, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Dimensional Lock"
+    },
+    {
+      "weight": 1,
+      "name": "Discern Location"
+    },
+    {
+      "weight": 1,
+      "name": "Earthquake"
+    },
+    {
+      "weight": 1,
+      "name": "Fire Storm"
+    },
+    {
+      "weight": 1,
+      "name": "Holy Aura"
+    },
+    {
+      "weight": 1,
+      "name": "Inflict Critical Wounds, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Planar Ally, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Shield of Law"
+    },
+    {
+      "weight": 1,
+      "name": "Spell Immunity, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster VIII"
+    },
+    {
+      "weight": 1,
+      "name": "Symbol of Death"
+    },
+    {
+      "weight": 1,
+      "name": "Symbol of Insanity"
+    },
+    {
+      "weight": 1,
+      "name": "Unholy Aura"
+    }
+  ]
+}

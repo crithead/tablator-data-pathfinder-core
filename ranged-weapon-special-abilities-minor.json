@@ -1,0 +1,48 @@
+{
+  "name": "Table 15-10: Minor Ranged Weapon Special Abilities",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 12,
+      "name": "Bane",
+      "subtable": "designated-type"
+    },
+    {
+      "weight": 13,
+      "name": "Distance"
+    },
+    {
+      "weight": 15,
+      "name": "Flaming"
+    },
+    {
+      "weight": 15,
+      "name": "Frost"
+    },
+    {
+      "weight": 5,
+      "name": "Merciful"
+    },
+    {
+      "weight": 8,
+      "name": "Returning"
+    },
+    {
+      "weight": 15,
+      "name": "Shock"
+    },
+    {
+      "weight": 10,
+      "name": "Seeking"
+    },
+    {
+      "weight": 6,
+      "name": "Thundering"
+    },
+    {
+      "weight": 1,
+      "name": "Roll again twice"
+    }
+  ]
+}

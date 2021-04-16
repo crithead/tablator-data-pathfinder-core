@@ -1,0 +1,47 @@
+{
+  "name": "Mephit Type",
+  "type": "items",
+  "total-weight": 10,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "air"
+    },
+    {
+      "weight": 1,
+      "name": "dust"
+    },
+    {
+      "weight": 1,
+      "name": "earth"
+    },
+    {
+      "weight": 1,
+      "name": "fire"
+    },
+    {
+      "weight": 1,
+      "name": "ice"
+    },
+    {
+      "weight": 1,
+      "name": "magma"
+    },
+    {
+      "weight": 1,
+      "name": "ooze"
+    },
+    {
+      "weight": 1,
+      "name": "salt"
+    },
+    {
+      "weight": 1,
+      "name": "steam"
+    },
+    {
+      "weight": 1,
+      "name": "water"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Table 10-2: Summon Nature's Ally IX",
+  "type": "items",
+  "total-weight": 2,
+  "rows": [
+    { "name": "Pixie (Irresistible Dance, sleep arrows)" },
+    { "name": "Storm giant" }
+  ]
+}

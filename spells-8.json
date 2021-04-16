@@ -1,0 +1,19 @@
+{
+  "name": "Level 8 Spells",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 30,
+      "table": "spells-cleric-8"
+    },
+    {
+      "weight": 10,
+      "table": "spells-druid-8"
+    },
+    {
+      "weight": 60,
+      "table": "spells-wizard-8"
+    }
+  ]
+}

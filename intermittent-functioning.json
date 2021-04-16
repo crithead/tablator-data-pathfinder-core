@@ -1,0 +1,88 @@
+{
+  "name": "Intermittent Functioning Situation",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 3,
+      "name": "Temperature below freezing"
+    },
+    {
+      "weight": 2,
+      "name": "Temperature above freezing"
+    },
+    {
+      "weight": 5,
+      "name": "During the day"
+    },
+    {
+      "weight": 5,
+      "name": "During the night"
+    },
+    {
+      "weight": 5,
+      "name": "In direct sunlight"
+    },
+    {
+      "weight": 5,
+      "name": "Out of direct sunlight"
+    },
+    {
+      "weight": 9,
+      "name": "Underwater"
+    },
+    {
+      "weight": 3,
+      "name": "Out of water"
+    },
+    {
+      "weight": 8,
+      "name": "Underground"
+    },
+    {
+      "weight": 10,
+      "name": "Aboveground"
+    },
+    {
+      "weight": 5,
+      "name": "Within 10 feet of a random creature type"
+    },
+    {
+      "weight": 4,
+      "name": "Within 10 feet of a random race or kind of creature"
+    },
+    {
+      "weight": 8,
+      "name": "Within 10 feet of an arcane spellcaster"
+    },
+    {
+      "weight": 8,
+      "name": "Within 10 feet of a divine spellcaster"
+    },
+    {
+      "weight": 5,
+      "name": "In the hands of a non-spellcaster"
+    },
+    {
+      "weight": 5,
+      "name": "In the hands of a spellcaster"
+    },
+    {
+      "weight": 5,
+      "name": "In the hands of a creature of a particular alignment",
+      "subtable": "alignment"
+    },
+    {
+      "weight": 1,
+      "name": "In the hands of a creature of a particular gender"
+    },
+    {
+      "weight": 3,
+      "name": "On holy days during particular astrological events"
+    },
+    {
+      "weight": 1,
+      "name": "More than 100 miles from a particular site"
+    }
+  ]
+}

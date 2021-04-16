@@ -1,0 +1,71 @@
+{
+  "name": "Bard Spells, Level 5",
+  "type": "items",
+  "total-weight": 16,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Cure Light Wounds, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Dispel Magic, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Dream"
+    },
+    {
+      "weight": 1,
+      "name": "False Vision"
+    },
+    {
+      "weight": 1,
+      "name": "Heroism, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Mind Fog"
+    },
+    {
+      "weight": 1,
+      "name": "Mirage Arcana"
+    },
+    {
+      "weight": 1,
+      "name": "Mislead"
+    },
+    {
+      "weight": 1,
+      "name": "Nightmare"
+    },
+    {
+      "weight": 1,
+      "name": "Persistent Image"
+    },
+    {
+      "weight": 1,
+      "name": "Seeming"
+    },
+    {
+      "weight": 1,
+      "name": "Shadow Evocation"
+    },
+    {
+      "weight": 1,
+      "name": "Shadow Wall"
+    },
+    {
+      "weight": 1,
+      "name": "Song of Discord"
+    },
+    {
+      "weight": 1,
+      "name": "Suggestion, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster V"
+    }
+  ]
+}

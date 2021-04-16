@@ -1,0 +1,51 @@
+{
+  "name": "Paladin Spells, Level 3",
+  "type": "items",
+  "total-weight": 11,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Cure Moderate Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Daylight"
+    },
+    {
+      "weight": 1,
+      "name": "Discern Lies"
+    },
+    {
+      "weight": 1,
+      "name": "Dispel Magic"
+    },
+    {
+      "weight": 1,
+      "name": "Heal Mount"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Circle against Chaos"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Circle against Evil"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Weapon, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Prayer"
+    },
+    {
+      "weight": 1,
+      "name": "Remove Blindness/Deafness "
+    },
+    {
+      "weight": 1,
+      "name": "Remove Curse"
+    }
+  ]
+}

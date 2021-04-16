@@ -1,0 +1,17 @@
+{
+  "name": "Table 15-7: Major Wands",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 60,
+      "name": "spell level: 3rd, caster level: 5th",
+      "subtable": "spells-3"
+    },
+    {
+      "weight": 40,
+      "name": "spell level: 4th, caster level: 7th",
+      "subtable": "spells-4"
+    }
+  ]
+}

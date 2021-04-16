@@ -1,0 +1,19 @@
+{
+  "name": "Table 6-6: Armor",
+  "type": "items",
+  "total-weight": 12,
+  "rows": [
+    { "name": "Padded" },
+    { "name": "Leather" },
+    { "name": "Studded Leather" },
+    { "name": "Chain shirt" },
+    { "name": "Hide" },
+    { "name": "Scale mail" },
+    { "name": "Chainmail" },
+    { "name": "Breastplate" },
+    { "name": "Splint mail" },
+    { "name": "Banded mail" },
+    { "name": "Half-plate" },
+    { "name": "Full plate" }
+  ]
+}

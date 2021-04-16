@@ -1,0 +1,123 @@
+{
+  "name": "Table 15-14: Major Rods",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 4,
+      "name": "rod of cancellation"
+    },
+    {
+      "weight": 2,
+      "name": "rod of metamagic, enlarge"
+    },
+    {
+      "weight": 2,
+      "name": "rod of metamagic, extend"
+    },
+    {
+      "weight": 2,
+      "name": "rod of metamagic, silent"
+    },
+    {
+      "weight": 4,
+      "name": "rod of wonder"
+    },
+    {
+      "weight": 5,
+      "name": "rod of the python"
+    },
+    {
+      "weight": 2,
+      "name": "rod of flame extinguishing "
+    },
+    {
+      "weight": 4,
+      "name": "rod of the viper"
+    },
+    {
+      "weight": 5,
+      "name": "rod of enemy detection"
+    },
+    {
+      "weight": 6,
+      "name": "rod of metamagic, greater enlarge"
+    },
+    {
+      "weight": 6,
+      "name": "rod of metamagic, greater extend"
+    },
+    {
+      "weight": 6,
+      "name": "rod of metamagic, greater silent"
+    },
+    {
+      "weight": 5,
+      "name": "rod of splendor"
+    },
+    {
+      "weight": 5,
+      "name": "rod of withering"
+    },
+    {
+      "weight": 6,
+      "name": "rod of metamagic, empower"
+    },
+    {
+      "weight": 5,
+      "name": "rod of thunder and lightning"
+    },
+    {
+      "weight": 4,
+      "name": "rod of metamagic, lesser quicken"
+    },
+    {
+      "weight": 4,
+      "name": "rod of negation"
+    },
+    {
+      "weight":3,
+      "name": "rod of absorbtion"
+    },
+    {
+      "weight": 4,
+      "name": "rod of flailing"
+    },
+    {
+      "weight": 2,
+      "name": "rod of metamagic, maximize"
+    },
+    {
+      "weight": 2,
+      "name": "rod of rulership"
+    },
+    {
+      "weight": 2,
+      "name": "rod of security"
+    },
+    {
+      "weight": 2,
+      "name": "rod of lordly might"
+    },
+    {
+      "weight": 2,
+      "name": "rod of metamagic, greater empower"
+    },
+    {
+      "weight": 2,
+      "name": "rod of metamagic, quicken"
+    },
+    {
+      "weight": 2,
+      "name": "rod of alertness"
+    },
+    {
+      "weight": 1,
+      "name": "rod of metamagic, greater maximize"
+    },
+    {
+      "weight": 1,
+      "name": "rod of metamagic, greater quicken"
+    }
+  ]
+}

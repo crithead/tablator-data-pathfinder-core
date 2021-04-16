@@ -1,0 +1,17 @@
+{
+  "name": "Table 10-2: Summon Nature's Ally VII",
+  "type": "items",
+  "total-weight": 10,
+  "rows": [
+    { "name": "Brachiosaurus (dinosaur)" },
+    { "name": "Dire crocodile" },
+    { "name": "Dire shark" },
+    { "name": "Elemental (greater)" },
+    { "name": "Fire giant" },
+    { "name": "Frost giant" },
+    { "name": "Giant Squid" },
+    { "name": "Mastodon (elephant)" },
+    { "name": "Roc" },
+    { "name": "Tyrannosaurus (dinosaur)" }
+  ]
+}

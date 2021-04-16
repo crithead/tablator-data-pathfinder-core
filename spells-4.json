@@ -1,0 +1,31 @@
+{
+  "name": "Level 4 Spells",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "table": "spells-bard-4"
+    },
+    {
+      "weight": 25,
+      "table": "spells-cleric-4"
+    },
+    {
+      "weight": 10,
+      "table": "spells-druid-4"
+    },
+    {
+      "weight": 10,
+      "table": "spells-paladin-4"
+    },
+    {
+      "weight": 10,
+      "table": "spells-ranger-4"
+    },
+    {
+      "weight": 35,
+      "table": "spells-wizard-4"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Cleric Spells, Level 6",
+  "type": "items",
+  "total-weight": 26,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Animate Object"
+    },
+    {
+      "weight": 1,
+      "name": "Antilife Shell"
+    },
+    {
+      "weight": 1,
+      "name": "Banishment"
+    },
+    {
+      "weight": 1,
+      "name": "Bear's Endurance, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Blade Barrier"
+    },
+    {
+      "weight": 1,
+      "name": "Bull's Strength, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Create Undead"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Moderate Wounds, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Dispel Magic, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Eagle's Splendor, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Find the Path"
+    },
+    {
+      "weight": 1,
+      "name": "Forbiddance"
+    },
+    {
+      "weight": 1,
+      "name": "Geas/Quest"
+    },
+    {
+      "weight": 1,
+      "name": "Glyph of Warding, Greater"
+    },
+    {
+      "weight": 1,
+      "name": "Harm"
+    },
+    {
+      "weight": 1,
+      "name": "Heal"
+    },
+    {
+      "weight": 1,
+      "name": "Heroes' Feast"
+    },
+    {
+      "weight": 1,
+      "name": "Inflict Moderate Wounds, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Owl's Wisdom, Mass"
+    },
+    {
+      "weight": 1,
+      "name": "Planar Ally"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster VI"
+    },
+    {
+      "weight": 1,
+      "name": "Symbol of Fear"
+    },
+    {
+      "weight": 1,
+      "name": "Symbol of Persuasion"
+    },
+    {
+      "weight": 1,
+      "name": "Undeath to Death"
+    },
+    {
+      "weight": 1,
+      "name": "Wind Walk"
+    },
+    {
+      "weight": 1,
+      "name": "Word of Recall"
+    }
+  ]
+}

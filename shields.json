@@ -1,0 +1,13 @@
+{
+  "name": "Table 6-6: Shields",
+  "type": "items",
+  "total-weight": 6,
+  "rows": [
+    { "name": "Buckler" },
+    { "name": "Light wooden shield" },
+    { "name": "Light steel shield" },
+    { "name": "Heavy wooden shield" },
+    { "name": "Heavy steel shield" },
+    { "name": "Tower shield" }
+  ]
+}

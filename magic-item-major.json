@@ -1,0 +1,43 @@
+{
+  "name": "Table 15-2: Random Major Magic Item Generation",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "table": "armor-shields-major"
+    },
+    {
+      "weight": 10,
+      "table": "magic-weapons-major"
+    },
+    {
+      "weight": 5,
+      "table": "potions-major"
+    },
+    {
+      "weight": 10,
+      "table": "rings-major"
+    },
+    {
+      "weight": 10,
+      "table": "rods-major"
+    },
+    {
+      "weight": 10,
+      "table": "scrolls-major"
+    },
+    {
+      "weight": 20,
+      "table": "staves-major"
+    },
+    {
+      "weight": 5,
+      "table": "wands-major"
+    },
+    {
+      "weight": 20,
+      "table": "wondrous-items-major"
+    }
+  ]
+}

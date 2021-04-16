@@ -1,0 +1,19 @@
+{
+  "name": "Table 6-4: Weapons",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 20,
+      "table": "weapons-simple"
+    },
+    {
+      "weight": 70,
+      "table": "weapons-martial"
+    },
+    {
+      "weight": 10,
+      "table": "weapons-exotic"
+    }
+  ]
+}

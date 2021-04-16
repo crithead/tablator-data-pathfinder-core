@@ -1,0 +1,64 @@
+{
+  "name": "Table 15-4: Medium Armor Special Ability",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "glamered"
+    },
+    {
+      "weight": 3,
+      "name": "fortification, light"
+    },
+    {
+      "weight": 3,
+      "name": "slick"
+    },
+    {
+      "weight": 6,
+      "name": "shadow"
+    },
+    {
+      "weight": 2,
+      "name": "spell resistance 13"
+    },
+    {
+      "weight": 10,
+      "name": "slick, improved"
+    },
+    {
+      "weight": 20,
+      "name": "shadow, improved"
+    },
+    {
+      "weight": 25,
+      "name": "energy resistance",
+      "subtable": "energy-type"
+    },
+    {
+      "weight": 5,
+      "name": "ghost touch"
+    },
+    {
+      "weight": 5,
+      "name": "invulnerability"
+    },
+    {
+      "weight": 5,
+      "name": "fortification, moderate"
+    },
+    {
+      "weight": 5,
+      "name": "spell resistance 15"
+    },
+    {
+      "weight": 5,
+      "name": "wild"
+    },
+    {
+      "weight": 1,
+      "name": "roll twice"
+    }
+  ]
+}

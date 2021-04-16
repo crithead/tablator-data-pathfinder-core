@@ -1,0 +1,36 @@
+{
+  "name": "Table 15-8: Medium Magic Weapons",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "name": "+1 weapon",
+      "subtable": "weapon-type"
+    },
+    {
+      "weight": 19,
+      "name": "+2 weapon",
+      "subtable": "weapon-type"
+    },
+    {
+      "weight": 29,
+      "name": "+3 weapon",
+      "subtable": "weapon-type"
+    },
+    {
+      "weight": 4,
+      "name": "+4 weapon",
+      "subtable": "weapon-type"
+    },
+    {
+      "weight": 6,
+      "name": "Specific weapon",
+      "subtable": "specific-weapons-medium"
+    },
+    {
+      "weight": 32,
+      "name": "Special ability and roll again"
+    }
+  ]
+}

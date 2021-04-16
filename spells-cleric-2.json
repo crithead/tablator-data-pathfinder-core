@@ -1,0 +1,135 @@
+{
+  "name": "Cleric Spells, Level 2",
+  "type": "items",
+  "total-weight": 32,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Aid"
+    },
+    {
+      "weight": 1,
+      "name": "Align Weapon"
+    },
+    {
+      "weight": 1,
+      "name": "Augury"
+    },
+    {
+      "weight": 1,
+      "name": "Bear's Endurance"
+    },
+    {
+      "weight": 1,
+      "name": "Bull's Strength"
+    },
+    {
+      "weight": 1,
+      "name": "Calm Emotions"
+    },
+    {
+      "weight": 1,
+      "name": "Consecrate"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Moderate Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Darkness"
+    },
+    {
+      "weight": 1,
+      "name": "Death Knell"
+    },
+    {
+      "weight": 1,
+      "name": "Delay Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Desecrate"
+    },
+    {
+      "weight": 1,
+      "name": "Eagle's Splendor"
+    },
+    {
+      "weight": 1,
+      "name": "Enthrall"
+    },
+    {
+      "weight": 1,
+      "name": "Find Traps"
+    },
+    {
+      "weight": 1,
+      "name": "Gentle Repose"
+    },
+    {
+      "weight": 1,
+      "name": "Hold Person"
+    },
+    {
+      "weight": 1,
+      "name": "Inflict Moderate Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Make Whole"
+    },
+    {
+      "weight": 1,
+      "name": "Owl's Wisdom"
+    },
+    {
+      "weight": 1,
+      "name": "Remove Paralysis"
+    },
+    {
+      "weight": 1,
+      "name": "Resist Energy"
+    },
+    {
+      "weight": 1,
+      "name": "Restoration, Lesser"
+    },
+    {
+      "weight": 1,
+      "name": "Shatter"
+    },
+    {
+      "weight": 1,
+      "name": "Shield Other"
+    },
+    {
+      "weight": 1,
+      "name": "Silence"
+    },
+    {
+      "weight": 1,
+      "name": "Sound Burst"
+    },
+    {
+      "weight": 1,
+      "name": "Spiritual Weapon"
+    },
+    {
+      "weight": 1,
+      "name": "Status"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster II"
+    },
+    {
+      "weight": 1,
+      "name": "Undetectable Alignment"
+    },
+    {
+      "weight": 1,
+      "name": "Zone of Truth"
+    }
+  ]
+}

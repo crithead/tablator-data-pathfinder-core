@@ -1,0 +1,35 @@
+{
+  "name": "Table 15-7: Medium Specific Shield",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 20,
+      "name": "darkwood buckler"
+    },
+    {
+      "weight": 15,
+      "name": "darkwood shield (heavy wooden)"
+    },
+    {
+      "weight": 35,
+      "name": "mithral heavy shield"
+    },
+    {
+      "weight": 15,
+      "name": "caster's shield (light wooden)"
+    },
+    {
+      "weight": 5,
+      "name": "spined shield (heavy steel)"
+    },
+    {
+      "weight": 5,
+      "name": "lion's shield (heavy steel)"
+    },
+    {
+      "weight": 5,
+      "name": "winged shield (heavy wooden)"
+    }
+  ]
+}

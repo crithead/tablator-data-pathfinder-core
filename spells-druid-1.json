@@ -1,0 +1,27 @@
+{
+  "name": "Druid Spells, Level 1",
+  "type": "items",
+  "total-weight": 20,
+  "rows": [
+    { "name": "Calm Animals" },
+    { "name": "Charm Animal" },
+    { "name": "Cure Light Wounds" },
+    { "name": "Detect Animals or Plants" },
+    { "name": "Detect Snares and Pits" },
+    { "name": "Endure Elements" },
+    { "name": "Entangle" },
+    { "name": "Faerie Fire" },
+    { "name": "Goodberry" },
+    { "name": "Hide from Animals" },
+    { "name": "Jump" },
+    { "name": "Longstrider" },
+    { "name": "Magic Fang" },
+    { "name": "Magic Stone" },
+    { "name": "Obscuring Mist" },
+    { "name": "Pass without Trace" },
+    { "name": "Produce Flame" },
+    { "name": "Shillelagh" },
+    { "name": "Speak with Animals" },
+    { "name": "Summon Nature's Ally I" }
+  ]
+}

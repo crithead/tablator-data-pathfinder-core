@@ -1,0 +1,41 @@
+{
+  "name": "Table 15-3: Minor Armor & Shields",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 60,
+      "name": "shield +1",
+      "subtable": "shield-type"
+    },
+    {
+      "weight": 20,
+      "name": "armor +1",
+      "subtable": "armor-type"
+    },
+    {
+      "weight": 5,
+      "name": "shield +2",
+      "subtable": "shield-type"
+    },
+    {
+      "weight": 2,
+      "name": "armor +2",
+      "subtable": "armor-type"
+    },
+    {
+      "weight": 2,
+      "name": "specific armor",
+      "subtable": "armor-specific-minor"
+    },
+    {
+      "weight": 2,
+      "name": "specific shield",
+      "subtable": "shield-specific-minor"
+    },
+    {
+      "weight": 9,
+      "name": "special ability & roll again"
+    }
+  ]
+}

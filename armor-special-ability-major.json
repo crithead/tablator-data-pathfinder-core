@@ -1,0 +1,90 @@
+{
+  "name": "Table 15-4: Major Armor Special Ability",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 3,
+      "name": "glamered"
+    },
+    {
+      "weight": 1,
+      "name": "fortification, light"
+    },
+    {
+      "weight": 3,
+      "name": "slick, improved"
+    },
+    {
+      "weight": 6,
+      "name": "shadow, improved"
+    },
+    {
+      "weight": 15,
+      "name": "energy resistance",
+      "subtable": "energy-type"
+    },
+    {
+      "weight": 5,
+      "name": "ghost touch"
+    },
+    {
+      "weight": 2,
+      "name": "invulnerability"
+    },
+    {
+      "weight": 5,
+      "name": "fortification, moderate"
+    },
+    {
+      "weight": 2,
+      "name": "spell resistance 15"
+    },
+    {
+      "weight": 1,
+      "name": "wild"
+    },
+    {
+      "weight": 5,
+      "name": "slick, greater"
+    },
+    {
+      "weight": 10,
+      "name": "shadow, greater"
+    },
+    {
+      "weight": 25,
+      "name": "energy resistance, improved",
+      "subtable": "energy-type"
+    },
+    {
+      "weight": 5,
+      "name": "spell resistence 17"
+    },
+    {
+      "weight": 1,
+      "name": "etherealness"
+    },
+    {
+      "weight": 1,
+      "name": "undead controlling"
+    },
+    {
+      "weight": 2,
+      "name": "fortification, heavy"
+    },
+    {
+      "weight": 2,
+      "name": "spell resistance 19"
+    },
+    {
+      "weight": 5,
+      "name": "energy resistance, greater",
+      "subtable": "energy-type"
+    },
+    {
+      "weight": 1,
+      "name": "roll twice"
+    }
+  ]
+}

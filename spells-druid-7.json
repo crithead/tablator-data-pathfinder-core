@@ -1,0 +1,20 @@
+{
+  "name": "Druid Spells, Level 7",
+  "type": "items",
+  "total-weight": 13,
+  "rows": [
+    { "name": "Animate Plants" },
+    { "name": "Changestaff" },
+    { "name": "Control Weather" },
+    { "name": "Creeping Doom" },
+    { "name": "Cure Moderate Wounds, Mass" },
+    { "name": "Fire Storm" },
+    { "name": "Heal" },
+    { "name": "Scrying, Greater" },
+    { "name": "Summon Nature's Ally VII" },
+    { "name": "Sunbeam" },
+    { "name": "Transmute Metal to Wood" },
+    { "name": "True Seeing" },
+    { "name": "Wind Walk" }
+  ]
+}

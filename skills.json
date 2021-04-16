@@ -1,0 +1,43 @@
+{
+  "name": "Skills",
+  "type": "items",
+  "total-weight": 35,
+  "rows": [
+    { "name": "Acrobatics" },
+    { "name": "Appraise" },
+    { "name": "Bluff" },
+    { "name": "Climb" },
+    {
+      "name": "Craft",
+      "subtable": "skills-craft-type"
+    },
+    { "name": "Diplomacy" },
+    { "name": "Disble Device" },
+    { "name": "Disguiuse" },
+    { "name": "Escape Artist" },
+    { "name": "Fly" },
+    { "name": "Handle Animal" },
+    { "name": "Heal" },
+    { "name": "Intimidate" },
+    {
+      "name": "Knowledge",
+      "subtable": "skills-knowledge-type",
+      "weight": 10
+    },
+    { "name": "Linguistics" },
+    { "name": "Perception" },
+    { "name": "Perform" },
+    {
+      "name": "Profession",
+      "subtable": "skills-profession-type"
+    },
+    { "name": "Ride" },
+    { "name": "Sense Motive" },
+    { "name": "Slight of Hand" },
+    { "name": "Spellcraft" },
+    { "name": "Stealth" },
+    { "name": "Survival" },
+    { "name": "Swim" },
+    { "name": "Use Magic Device" }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Bard Spells, Level 1",
+  "type": "items",
+  "total-weight": 26,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Alarm"
+    },
+    {
+      "weight": 1,
+      "name": "Animate Rope"
+    },
+    {
+      "weight": 1,
+      "name": "Cause Fear"
+    },
+    {
+      "weight": 1,
+      "name": "Charm Person"
+    },
+    {
+      "weight": 1,
+      "name": "Comprehend Languages"
+    },
+    {
+      "weight": 1,
+      "name": "Confusion, Lesser"
+    },
+    {
+      "weight": 1,
+      "name": "Cure Light Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Secret Doors"
+    },
+    {
+      "weight": 1,
+      "name": "Disguise Self"
+    },
+    {
+      "weight": 1,
+      "name": "Erase"
+    },
+    {
+      "weight": 1,
+      "name": "Expeditious Retreat"
+    },
+    {
+      "weight": 1,
+      "name": "Feather Fall"
+    },
+    {
+      "weight": 1,
+      "name": "Grease"
+    },
+    {
+      "weight": 1,
+      "name": "Hideous Laughter"
+    },
+    {
+      "weight": 1,
+      "name": "Hypnotism"
+    },
+    {
+      "weight": 1,
+      "name": "Identity"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Aura"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Mouth"
+    },
+    {
+      "weight": 1,
+      "name": "Obscure Object"
+    },
+    {
+      "weight": 1,
+      "name": "Remove Fear"
+    },
+    {
+      "weight": 1,
+      "name": "Silent Image"
+    },
+    {
+      "weight": 1,
+      "name": "Sleep"
+    },
+    {
+      "weight": 1,
+      "name": "Summon Monster I"
+    },
+    {
+      "weight": 1,
+      "name": "Undetectable Alignment"
+    },
+    {
+      "weight": 1,
+      "name": "Unseen Servant"
+    },
+    {
+      "weight": 1,
+      "name": "Ventriloquism"
+    }
+  ]
+}

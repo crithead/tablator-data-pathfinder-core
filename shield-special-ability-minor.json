@@ -1,0 +1,39 @@
+{
+  "name": "Table 15-5: Minor Shield Special Ability",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 20,
+      "name": "arrow catching"
+    },
+    {
+      "weight": 20,
+      "name": "bashing"
+    },
+    {
+      "weight": 10,
+      "name": "blinding"
+    },
+    {
+      "weight": 25,
+      "name": "fortification, light"
+    },
+    {
+      "weight": 17,
+      "name": "arrow deflection"
+    },
+    {
+      "weight": 5,
+      "name": "animated"
+    },
+    {
+      "weight": 2,
+      "name": "spell resistance 13"
+    },
+    {
+      "weight": 1,
+      "name": "roll twice"
+    }
+  ]
+}

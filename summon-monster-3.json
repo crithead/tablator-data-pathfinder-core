@@ -1,0 +1,67 @@
+{
+  "name": "Table 10-1: Summon Monster III",
+  "type": "items",
+  "total-weight": 15,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Ant, giant (soldier)"
+    },
+    {
+      "weight": 1,
+      "name": "Ape"
+    },
+    {
+      "weight": 1,
+      "name": "Aurochs (herd animal)"
+    },
+    {
+      "weight": 1,
+      "name": "Boar"
+    },
+    {
+      "weight": 1,
+      "name": "Cheetah"
+    },
+    {
+      "weight": 1,
+      "name": "Constrictor snake"
+    },
+    {
+      "weight": 1,
+      "name": "Crocodile"
+    },
+    {
+      "weight": 1,
+      "name": "Dire bat"
+    },
+    {
+      "weight": 1,
+      "name": "Dretch (demon)"
+    },
+    {
+      "weight": 1,
+      "name": "Electric eel"
+    },
+    {
+      "weight": 1,
+      "name": "Lantern archon"
+    },
+    {
+      "weight": 1,
+      "name": "Leopard (cat)"
+    },
+    {
+      "weight": 1,
+      "name": "Monitor lizard"
+    },
+    {
+      "weight": 1,
+      "name": "Shark"
+    },
+    {
+      "weight": 1,
+      "name": "Wolverine"
+    }
+  ]
+}

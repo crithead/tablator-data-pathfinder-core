@@ -1,0 +1,25 @@
+{
+  "name": "Druid Spells, Level 6",
+  "type": "items",
+  "total-weight": 18,
+  "rows": [
+    { "name": "Antilife Shell" },
+    { "name": "Bear's Endurance, Mass" },
+    { "name": "Bull's Strength, Mass" },
+    { "name": "Cat's Grace, Mass" },
+    { "name": "Cure Light Wounds, Mass" },
+    { "name": "Dispel Magic, Greater" },
+    { "name": "Find the Path" },
+    { "name": "Fire Seeds" },
+    { "name": "Ironwood" },
+    { "name": "Live Oak" },
+    { "name": "Move Earth" },
+    { "name": "Owl's Wisdom, Mass" },
+    { "name": "Repel Wood" },
+    { "name": "Spellstaff" },
+    { "name": "Stone Tell" },
+    { "name": "Summon Nature's Ally VI" },
+    { "name": "Transport via Plants" },
+    { "name": "Wall of Stone" }
+  ]
+}

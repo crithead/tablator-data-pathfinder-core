@@ -1,0 +1,71 @@
+{
+  "name": "Paladin Spells, Level 1",
+  "type": "items",
+  "total-weight": 16,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "Bless"
+    },
+    {
+      "weight": 1,
+      "name": "Bless Water"
+    },
+    {
+      "weight": 1,
+      "name": "Bless Weapon"
+    },
+    {
+      "weight": 1,
+      "name": "Create Water"
+    },
+    {
+      "weight": 1,
+      "name": "Sure Light Wounds"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Poison"
+    },
+    {
+      "weight": 1,
+      "name": "Detect Undead"
+    },
+    {
+      "weight": 1,
+      "name": "Divine Favor"
+    },
+    {
+      "weight": 1,
+      "name": "Endure Elements"
+    },
+    {
+      "weight": 1,
+      "name": "Magic Weapon"
+    },
+    {
+      "weight": 1,
+      "name": "Protection from Chaos"
+    },
+    {
+      "weight": 1,
+      "name": "Protection from Evil"
+    },
+    {
+      "weight": 1,
+      "name": "Read Magic"
+    },
+    {
+      "weight": 1,
+      "name": "Resistance"
+    },
+    {
+      "weight": 1,
+      "name": "Restoration, lesser"
+    },
+    {
+      "weight": 1,
+      "name": "Virtue"
+    }
+  ]
+}
