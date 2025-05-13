@@ -1,6 +1,5 @@
 {
   "name": "Druid Spells, Level 1",
-  "type": "items",
   "total-weight": 20,
   "rows": [
     { "name": "Calm Animals" },

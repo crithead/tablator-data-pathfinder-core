@@ -1,6 +1,5 @@
 {
   "name": "Professions",
-  "type": "items",
   "total-weight": 30,
   "rows": [
     { "name": "architect" },

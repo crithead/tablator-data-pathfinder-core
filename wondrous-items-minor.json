@@ -1,6 +1,5 @@
 {
   "name": "Table 15-18: Minor Woundrous Items",
-  "type": "items",
   "total-weight": 100,
   "rows": [
     { "name": "Feather token, anchor" },

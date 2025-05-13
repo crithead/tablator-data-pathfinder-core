@@ -1,6 +1,5 @@
 {
   "name": "Metamagic Feats",
-  "type": "items",
   "total-weight": 9,
   "rows": [
     { "name": "Empower Spell" },

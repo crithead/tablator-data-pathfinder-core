@@ -1,6 +1,5 @@
 {
   "name": "Druid Spells, Level 5",
-  "type": "items",
   "total-weight": 19,
   "rows": [
     { "name": "Animal Growth" },

@@ -1,6 +1,5 @@
 {
   "name": "Simple Weapons",
-  "type": "items",
   "total-weight": 23,
   "rows": [
     { "name": "Gauntlet" },
