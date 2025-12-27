@@ -1,6 +1,5 @@
 {
   "name": "Item Creation Feats",
-  "type": "items",
   "total-weight": 8,
   "rows": [
     { "name": "Brew Potion" },

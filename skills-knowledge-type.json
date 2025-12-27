@@ -1,6 +1,5 @@
 {
   "name": "Knowledge Skill",
-  "type": "items",
   "total-weight": 10,
   "rows": [
     { "name": "arcana" },

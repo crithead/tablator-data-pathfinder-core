@@ -1,6 +1,5 @@
 {
   "name": "Wizard/Sorcerer Spells, Level 3",
-  "type": "items",
   "total-weight": 46,
   "rows": [
     { "name": "Arcane Sight" },

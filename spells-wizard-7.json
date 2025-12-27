@@ -1,6 +1,5 @@
 {
   "name": "Wizard/Sorcerer Spells, Level 7",
-  "type": "items",
   "total-weight": 40,
   "rows": [
     { "name": "Banishment" },

@@ -1,6 +1,5 @@
 {
   "name": "Druid Spells, Level 0",
-  "type": "items",
   "total-weight": 13,
   "rows": [
     { "name": "Create Water" },

@@ -1,6 +1,5 @@
 {
   "name": "Wizard/Sorcerer Spells, Level 1",
-  "type": "items",
   "total-weight": 42,
   "rows": [
     { "name": "Alarm" },

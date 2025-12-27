@@ -1,6 +1,5 @@
 {
   "name": "Craft Skills",
-  "type": "items",
   "total-weight": 21,
   "rows": [
     { "name": "alchemy" },

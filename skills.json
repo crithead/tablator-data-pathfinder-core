@@ -1,6 +1,5 @@
 {
   "name": "Skills",
-  "type": "items",
   "total-weight": 35,
   "rows": [
     { "name": "Acrobatics" },

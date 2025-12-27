@@ -1,6 +1,5 @@
 {
   "name": "Table 6-6: Armor",
-  "type": "items",
   "total-weight": 12,
   "rows": [
     { "name": "Padded" },

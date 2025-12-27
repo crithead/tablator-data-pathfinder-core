@@ -1,6 +1,5 @@
 {
   "name": "Martial Weapons",
-  "type": "items",
   "total-weight": 37,
   "rows": [
     { "name": "Throwing axe" },

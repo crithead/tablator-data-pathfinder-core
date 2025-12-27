@@ -1,6 +1,5 @@
 {
   "name": "Druid Spells, Level 3",
-  "type": "items",
   "total-weight": 22,
   "rows": [
     { "name": "Call Lightning" },

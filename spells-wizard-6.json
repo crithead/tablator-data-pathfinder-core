@@ -1,6 +1,5 @@
 {
   "name": "Wizard/Sorcerer Spells, Level 6",
-  "type": "items",
   "total-weight": 47,
   "rows": [
     { "name": "Acid Fog" },

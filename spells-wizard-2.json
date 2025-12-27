@@ -1,6 +1,5 @@
 {
   "name": "Wizard/Sorcerer Spells, Level 2",
-  "type": "items",
   "total-weight": 50,
   "rows": [
     { "name": "Acid Arrow" },
